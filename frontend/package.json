@@ -8,8 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.26.1",
+    "axios-auth-refresh": "^3.2.2",
     "core-js": "^3.6.5",
+    "marker-clusterer-plus": "^2.1.4",
+    "vee-validate": "^2.2.15",
     "vue": "^2.6.11",
+    "vue-axios": "^3.4.1",
+    "vue-router": "^3.4.9",
+    "vue2-google-maps": "^0.10.7",
     "vuetify": "^2.6.0"
   },
   "devDependencies": {
@@ -37,7 +44,10 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
-    "rules": {}
+    "rules": {
+      "no-unused-vars": "off",
+      "no-undef": "off"
+    }
   },
   "browserslist": [
     "> 1%",

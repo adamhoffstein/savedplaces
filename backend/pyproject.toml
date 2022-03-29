@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = "Backend for Google Map restaurant finder app"
+authors = ["Adam Hoffstein <adam@C0377-Macbook-Pro.local>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.75.0"
+uvicorn = "^0.17.6"
+psycopg2-binary = "^2.9.3"
+googlemaps = "^4.6.0"
+SQLAlchemy = "^1.4.32"
+alembic = "^1.7.7"
+python-dotenv = "^0.20.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+pytest = "^7.1.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
