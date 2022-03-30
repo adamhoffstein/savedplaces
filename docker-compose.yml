@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: docker/backend-${ENV_STATE}.dockerfile
+    command: uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 8000 --lifespan on
+    environment:
+      ENV_STATE: "${ENV_STATE:-dev}"
+    volumes:
+      - ./backend/app/:/app/app
+      - ./backend/.env:/app/.env
+    ports:
+      - 8000:8000
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/frontend-${ENV_STATE}.dockerfile    
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    volumes:
+      - ./frontend/src/:/usr/app/src
+    stdin_open: true
+    tty: true
+    ports:
+      - 8081:8081

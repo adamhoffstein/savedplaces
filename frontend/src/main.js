@@ -9,6 +9,7 @@ import vuetify from './plugins/vuetify';
 // import createAuthRefreshInterceptor from 'axios-auth-refresh';
 import VueAxios from 'vue-axios'
 import * as VueGoogleMaps from 'vue2-google-maps'
+import ApiService from "./services/api.service";
 
 Vue.config.productionTip = false;
 
@@ -60,6 +61,7 @@ Vue.use(VeeValidate);
 
 Vue.use(VueAxios, axios);
 
+ApiService.init();
 
 new Vue({
   router,
