@@ -5,18 +5,19 @@
         <v-col cols="12" md="6">
           <v-text-field
             solo
-            placeholder="Enter an address"
+            label="Where do you want to look?"
             append-icon="mdi-map-marker"
-            v-model="coordinates"
-            @click:append="locatorButtonPressed"
+            v-model="queryInfo.location"
+            :loading="!queryInfo.lat"
+            @click:append="getCurrentLocation"
           >
           </v-text-field>
         </v-col>
         <v-col cols="12" md="3">
-          <v-select solo v-model="type" label="type" :items="types"> </v-select>
+          <v-text-field solo v-model="queryInfo.keyword" label="What are you craving?"> </v-text-field>
         </v-col>
         <v-col cols="12" md="3">
-          <v-select solo v-model="radius" label="distance" :items="radii">
+          <v-select solo v-model="queryInfo.radius" label="How far away?" :items="radii">
           </v-select>
         </v-col>
       </v-row>
@@ -29,7 +30,7 @@
             <v-card-title>
               Rating Filter:
               <v-rating
-                v-model="rating"
+                v-model="queryInfo.rating"
                 background-color="white"
                 color="yellow accent-4"
                 dense
@@ -39,7 +40,9 @@
               ></v-rating>
             </v-card-title>
             <v-card-actions>
-              <v-btn @click="findButtonPressed">Find Nearby</v-btn>
+              <v-btn @click="findButtonPressed"
+              :disabled="!queryInfo.lat"
+              >Find Nearby</v-btn>
             </v-card-actions>
           </v-card>
         </v-row>
@@ -47,8 +50,11 @@
           <v-list-item v-for="place in places" :key="place.id">
             <v-list-item-content>
               <v-list-item-title>{{ place.name }}</v-list-item-title>
-              <v-list-item-subtitle>{{ place.vicinity }}</v-list-item-subtitle>
+              <v-list-item-subtitle>{{ place.vicinity.slice(0, 65) }}</v-list-item-subtitle>
             </v-list-item-content>
+            <p class="text-caption pt-4 pl-2" v-if="place.user_ratings_total">
+              ({{ place.user_ratings_total }})
+            </p>
             <v-rating
               v-model="place.rating"
               background-color="white"
@@ -58,11 +64,9 @@
               size="18"
               readonly
             ></v-rating>
-            <p class="text-caption pt-4 pl-2" v-if="place.user_ratings_total">
-              ({{ place.user_ratings_total }})
-            </p>
           </v-list-item>
         </v-list>
+        <div>debug area: {{ coordinates }}</div>
       </v-col>
       <v-divider vertical></v-divider>
       <v-col>
@@ -70,7 +74,7 @@
           <Gmap-Map
             style="width: 600; height: 800px"
             :zoom="12"
-            :center="{lat: lat, lng: lon}"
+            :center="{lat: queryInfo.lat, lng: queryInfo.lon}"
           >
             <Gmap-Marker
               v-for="(marker, index) in markers"
@@ -92,7 +96,6 @@
   </v-container>
 </template>
 <script>
-import axios from "axios";
 import {
   GooglePlacesService
 } from "@/services/api.service";
@@ -102,28 +105,31 @@ export default {
   },
   data: () => {
     return {
-      type: "",
-        types: ['restaurant'],
+        location: 'Current Location',
         radii: ['5', '10', '15', '20'],
-        radius: "",
-        lat: 0,
-        lon: 0,
-        rating: 4.3,
         places: [{name: 'Your results will appear here', vicinity: 'type something to get started'}],
-        markers: []
+        markers: [],
+        queryInfo: {
+          lat: null,
+          lon: null,
+          radius: null,
+          keyword: null,
+          rating: 4.5
+      }
     }
   },
   computed: {
     coordinates() {
-      return `${this.lat}, ${this.lon}`;
+      return `${this.queryInfo.lat}, ${this.queryInfo.lon}`;
     }
   },
   methods: {
-    locatorButtonPressed () {
+    getCurrentLocation () {
       navigator.geolocation.getCurrentPosition(
         position => {
-          this.lat = position.coords.latitude;
-          this.lon = position.coords.longitude;
+          this.queryInfo.lat = position.coords.latitude;
+          this.queryInfo.lon = position.coords.longitude;
+          console.log(this.queryInfo.lat, this.queryInfo.lon)
         },
         error => {
           console.log('Something is broken.', error);
@@ -131,17 +137,10 @@ export default {
       )
     },
     findButtonPressed () {
-      const queryInfo = {
-        lat: this.lat,
-        lon: this.lon,
-        radius: this.radius,
-        type: this.type,
-        rating: this.rating
-      }
-      GooglePlacesService.query(queryInfo).then(
+      GooglePlacesService.query(this.queryInfo).then(
           response => {
               console.log(response)
-              this.places = response.data.results
+              this.places = response.data
               this.addMapLocations()
               console.log(this.places)
           },
@@ -154,6 +153,7 @@ export default {
       )
     },
     addMapLocations () {
+      this.markers = []
       this.places.forEach((place) => {
         this.markers.push({
             position: {
@@ -166,7 +166,7 @@ export default {
     }
   },
   mounted(){
-
+    this.getCurrentLocation()
   }
 }
 </script>

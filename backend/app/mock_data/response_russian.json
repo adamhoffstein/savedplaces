@@ -1,0 +1,2084 @@
+[
+  [
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7631111,
+        "lng": -73.9847593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.76455437989272,
+          "lng": -73.98333487010727
+        },
+        "southwest": {
+          "lat": 40.76185472010728,
+          "lng": -73.98603452989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Russian Samovar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104904385661967167466\">Serghey Tokarev</a>"
+        ],
+        "photo_reference": "Aap_uED_NmBB79kbezbTfVEsPzZdVNPM6AO_R4WOM6fn8wjnQlY_ynig0WPKui8QxKJe2cbSm1RxYB4PPDxsqMyMCZdUDHH5FhMw4QscOGf8sVkwsXLBTNU_hKtsPxgdeHQXnaibfNRLJ2xpOqNwFN5Jny6uBi2-9Xoi1E0xryFqC3cYoSoj",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJSeT4tldYwokRxanaa6CWf0U",
+    "plus_code": {
+      "compound_code": "Q278+63 New York",
+      "global_code": "87G8Q278+63"
+    },
+    "price_level": 3,
+    "rating": 4.3,
+    "reference": "ChIJSeT4tldYwokRxanaa6CWf0U",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 830,
+    "vicinity": "256 W 52nd St, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5983123,
+        "lng": -73.96257740000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.59958632989273,
+          "lng": -73.96120852010728
+        },
+        "southwest": {
+          "lat": 40.59688667010728,
+          "lng": -73.96390817989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Stolovaya",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110178700773147987162\">Jacob Matsibekker</a>"
+        ],
+        "photo_reference": "Aap_uEBj4ARoL8lR2Xjp6pStoP5B0htse1zax9ZkIBNM6wn37hbQDtCVsanCaLpeApEtvD8-jSpk6qokHc5rHROd6XiAC82oRQ90AMcse-3VzZM0KO4pESTHjwMQPl77xOZRKGITcPOHsnjdWDjPcRNJky97gcd1QFVBjexOaxIlSgoNm1PY",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJx5s6ffREwokR8G9lwAwpdTs",
+    "plus_code": {
+      "compound_code": "H2XP+8X New York",
+      "global_code": "87G8H2XP+8X"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJx5s6ffREwokR8G9lwAwpdTs",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 840,
+    "vicinity": "813 Avenue U, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7091074,
+        "lng": -74.0059012
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.71052442989272,
+          "lng": -74.00447082010727
+        },
+        "southwest": {
+          "lat": 40.70782477010728,
+          "lng": -74.00717047989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Matryoshka",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114866547198430581370\">Brett Erickson</a>"
+        ],
+        "photo_reference": "Aap_uECNibg_xMmJa-kbVyDlJgYivXtFFiW86XOnRj6BeI8uZcxVRH4x9aCnSd1EC1b-wDoGORfU9vfICbA9-KhDCZKvcSA69MF4nD5hHKV7_N4DWBvepW1blmjgmpBGYhRELC4DTEOBGPrvw16F4h7vbA_kzRYrjswlSQN4I20kYMtyZdwd",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJJ3Z-siJawokRP-KZwdTqCyc",
+    "plus_code": {
+      "compound_code": "PX5V+JJ New York",
+      "global_code": "87G7PX5V+JJ"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJJ3Z-siJawokRP-KZwdTqCyc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "b/t William St & Gold St, 88 Fulton St, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5984738,
+        "lng": -73.9614467
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.59983842989272,
+          "lng": -73.95997477010728
+        },
+        "southwest": {
+          "lat": 40.59713877010728,
+          "lng": -73.96267442989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Gurman",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112798016861381576135\">Nikolay Moiseev</a>"
+        ],
+        "photo_reference": "Aap_uED9M6UiMtFy9hRyAVljJAsPkPrlmrR7nzyO7nUTZq-qcKOdQB8mFc-ODMcb5D44OrSXS7G-0eeFGe6P3TghpRSOQN9sA_H0vdQfNtBoJsSJjDtrhwhNVuqU-oLvnco4QEeD48-J8YP7qlccy0RYV83mIf15ouDRGNGwijYScgo5mrdU",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJM51onPREwokRgCZpCckQHGs",
+    "plus_code": {
+      "compound_code": "H2XQ+9C New York",
+      "global_code": "87G8H2XQ+9C"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJM51onPREwokRgCZpCckQHGs",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 184,
+    "vicinity": "2402 Coney Island Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7388833,
+        "lng": -73.988525
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.74014762989271,
+          "lng": -73.98723802010727
+        },
+        "southwest": {
+          "lat": 40.73744797010727,
+          "lng": -73.98993767989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Mari Vanna",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115249705305889734883\">Pavel Push</a>"
+        ],
+        "photo_reference": "Aap_uECKf0ExuOi8UxJdESOJfmVDt8J5EDTGcXpqYIkdwfxoveXBp6jEXu0G2cnP2oi6Rht1EY-C2MKSd9uBlBv2Xzz-6lot_xshl-LWTKJxZivUnyI-pvHySggrvx4LR5hdHqa2fUdCYXQneoMPVRGGF7xFQVr4bRYeEZxayznp59bGMyiv",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJlYOUfqFZwokRnporFe9pTeE",
+    "plus_code": {
+      "compound_code": "P2Q6+HH New York",
+      "global_code": "87G8P2Q6+HH"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJlYOUfqFZwokRnporFe9pTeE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1240,
+    "vicinity": "41 E 20th St, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.588235,
+        "lng": -73.96005099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.58959107989271,
+          "lng": -73.95891567010726
+        },
+        "southwest": {
+          "lat": 40.58689142010727,
+          "lng": -73.96161532989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Cafe Gallery",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116331718523710198854\">Cafe Gallry</a>"
+        ],
+        "photo_reference": "Aap_uEDQeNeqrv6QoZLqw9SedJk31SzsqEU9BAxSTZal4WbE6C0Z4Az__uDMywcs4BflhDmlBKSkjmYWw55o90OpObaicXJRsxfyfzF53PCGI9Wac9zkEHQfOFtim4QE3Ci0F4lxh-TAIJ--JumGwwLzxTejEeX4b-Vs4ueGq8KtUsteSHIE",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJdbV3-11EwokRKmIcrTbwfr0",
+    "plus_code": {
+      "compound_code": "H2QQ+7X New York",
+      "global_code": "87G8H2QQ+7X"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJdbV3-11EwokRKmIcrTbwfr0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 232,
+    "vicinity": "2801 Coney Island Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.587957,
+        "lng": -73.95581899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.58926617989272,
+          "lng": -73.95458847010728
+        },
+        "southwest": {
+          "lat": 40.58656652010728,
+          "lng": -73.95728812989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Caspiy",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1616,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104928957674367808482\">&quot;Caspiy&quot; Restaurant</a>"
+        ],
+        "photo_reference": "Aap_uECL3n7Vm1eH1bkSeHb-LZcQUBEXdF2s8cjqYiNfhqG1Ji_lbmmkaj9je--mN9iPPOa_iHOyT2iifAyQFnPAPwyyr3B5O1d3hUDXy24YFjlN5OnxGlORkHhnTgDJBBrj2VYE_rDhriGT011Ag4yIjWcXLf6jqNKYJ1u_rMT6hs6yM-g",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJu_efzWZEwokRexJTiu9AlLw",
+    "plus_code": {
+      "compound_code": "H2QV+5M Brooklyn, New York",
+      "global_code": "87G8H2QV+5M"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJu_efzWZEwokRexJTiu9AlLw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 107,
+    "vicinity": "1309 Avenue Z, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5910115,
+        "lng": -73.96037749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.59236132989272,
+          "lng": -73.95902767010728
+        },
+        "southwest": {
+          "lat": 40.58966167010728,
+          "lng": -73.96172732989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Oasis Cafe",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112362204431733629516\">Станислав Евтушенко</a>"
+        ],
+        "photo_reference": "Aap_uEDnUuYjt_5xePw7JEbFUk5t36zjoOts2JUT9fKrbNUy_M7cxODnWg9p_7V_eNmC5xNIRtndo9x0Yv3Ztt8zvDNxe73fCTpC3SIHRoenq403sKwa4nmRa616WS3vfaK0O_cAspO2q9hYvXFrqVKkWZ5PTRe_fX2qsNuFBzh7zuXLVLs2",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvQUmPV5EwokRK9nwNPF4t38",
+    "plus_code": {
+      "compound_code": "H2RQ+CR Brooklyn, New York",
+      "global_code": "87G8H2RQ+CR"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJvQUmPV5EwokRK9nwNPF4t38",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 375,
+    "vicinity": "2689 Coney Island Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7207897,
+        "lng": -73.9886096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.72217692989272,
+          "lng": -73.98737302010728
+        },
+        "southwest": {
+          "lat": 40.71947727010728,
+          "lng": -73.99007267989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Tzarevna",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1856,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103314812705812874258\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uEBXEHeBiDPMC9M1eaTmAxNRq12W1pH7xESVeDlTs3sADkcrYup9w3_rwDqK46fpXdNGYzCOBGoJQnMa6aEC_dyan6Jel5YL_0pcntT6iGUqHp-vj4Wir6sBvoirKcilfc4mvMUvb6yrUnF1ZirhN0F7W3Q0gxSmSZk4hzvy1fFrWPSO",
+        "width": 2500
+      }
+    ],
+    "place_id": "ChIJPQh1oNVZwokRIVtTCmUySDw",
+    "plus_code": {
+      "compound_code": "P2C6+8H New York",
+      "global_code": "87G8P2C6+8H"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJPQh1oNVZwokRIVtTCmUySDw",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 205,
+    "vicinity": "154 Orchard St, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7252626,
+        "lng": -73.84999599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.72655102989273,
+          "lng": -73.84871027010729
+        },
+        "southwest": {
+          "lat": 40.72385137010728,
+          "lng": -73.85140992989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Troyka",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105915847221944877291\">Khusravbek Murodov</a>"
+        ],
+        "photo_reference": "Aap_uEBBw4zWj4u_lBCzrqY4VU2bP9id4a5YQrJFl_Fi-oE6tXppbj3ot_iJzxQ0sW_SdBdjIIL5iaklPdIANYNSI7CVGQWRzhBjC2SLo47DekRg4AV7xYDZ3ITS0WQkCWzUSzHRr6m3-eJ-BmOU34b4z2upMS6XxqheHAVjCsoEI3P9cqC2",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ_2FBLplgwokRaMBOKQ4GAqI",
+    "plus_code": {
+      "compound_code": "P5G2+42 New York",
+      "global_code": "87G8P5G2+42"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ_2FBLplgwokRaMBOKQ4GAqI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 107,
+    "vicinity": "10255 Queens Blvd, Forest Hills"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5888368,
+        "lng": -73.9601368
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.59018897989272,
+          "lng": -73.95892277010728
+        },
+        "southwest": {
+          "lat": 40.58748932010728,
+          "lng": -73.96162242989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Chinar Restaurant & Special Events",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112981593496516345665\">Vadim Mitelman</a>"
+        ],
+        "photo_reference": "Aap_uED0sPhcw1VwgIY-cEScbppWukisAMCDIEP-W9K06fUe_C1siu4mKIPdJUg2yyHlAkE8f7fRBVmyM6n9lmnoudKWaUZc0FJp-GHNGRtE--s2TkyAdGr_sgsbuym92yXbF5IFYKQLunexjuoxqPmCWED-5DEhNnE_3P6XYHdY7QxDc9sd",
+        "width": 3984
+      }
+    ],
+    "place_id": "ChIJGSK-jWJDwokRR2BC4TSWn7M",
+    "plus_code": {
+      "compound_code": "H2QQ+GW Brooklyn, New York",
+      "global_code": "87G8H2QQ+GW"
+    },
+    "price_level": 3,
+    "rating": 4.4,
+    "reference": "ChIJGSK-jWJDwokRR2BC4TSWn7M",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 532,
+    "vicinity": "2775 Coney Island Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.6398122,
+        "lng": -73.9874853
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.64107702989272,
+          "lng": -73.98610802010727
+        },
+        "southwest": {
+          "lat": 40.63837737010727,
+          "lng": -73.98880767989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Angela",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110351614318627082906\">I YOUTUBE</a>"
+        ],
+        "photo_reference": "Aap_uEA9FQdTVX2All_8ju_kPaKKyGxx24GA8IvP07kNIZeECtT0nll3_rnY9zplQhw0uJOQ0YLxf-0UnOn9X5qqI0dPN-hMQEb5yQlNNoMsDNghAhrjtSHBosNPeXXVk8fA6vlzMiL5ZKapmm9sg7dxPtGXJdUfykbKnapOptH6gIiysYv7",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ--m2YNRawokRC3vrU8piiOw",
+    "plus_code": {
+      "compound_code": "J2Q7+W2 Brooklyn, New York",
+      "global_code": "87G8J2Q7+W2"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ--m2YNRawokRC3vrU8piiOw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 108,
+    "vicinity": "4012 13th Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.76816549999999,
+        "lng": -73.985224
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.76943877989272,
+          "lng": -73.98406412010728
+        },
+        "southwest": {
+          "lat": 40.76673912010727,
+          "lng": -73.98676377989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Daa! Dumplings",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 811,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114636519815498196041\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uECbzB09KnCe-8mzeSJIGoiodtXeKWCC-bBn59rS09FtC-DABM4Nq8rcWu9pzFXZ8Prs-Z4dMgfBb0n_GSdHLrtFr327Ts_wtHcYqiv1M2V2SAFN9dYh53r7Qm2Pl_opH8ZFN4ckHkegJ5E5aLTLp3KPYOxQYn6C9cCuH22ebOe5ZIwD",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJ3RM42PdYwokRFXk7jddTW5M",
+    "plus_code": {
+      "compound_code": "Q297+7W New York",
+      "global_code": "87G8Q297+7W"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJ3RM42PdYwokRFXk7jddTW5M",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 201,
+    "vicinity": "886 9th Ave, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5998164,
+        "lng": -74.00277009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.60126482989273,
+          "lng": -74.00130127010728
+        },
+        "southwest": {
+          "lat": 40.59856517010729,
+          "lng": -74.00400092989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "MPY International Food",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3006,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115354096318086584445\">IK Films</a>"
+        ],
+        "photo_reference": "Aap_uED5Md0QttdtrWhGbEi-4aOPeahFNAM8vrdv_IHc1a6h1fIuEUA9xh123_xqHEij7ZWKSkf0ZT2Il90OWs7-UZxAqzE0hbdD7WIRP-MqcNTqlIZQGKUfD8-_fw1po7nASm2xKZVgNnnpjB2AMMLTd8vn8RiEhxbxudiB3ikCdZD37v6s",
+        "width": 5344
+      }
+    ],
+    "place_id": "ChIJpXAOcQpFwokR07xO24rs4XQ",
+    "plus_code": {
+      "compound_code": "HXXW+WV Brooklyn, New York",
+      "global_code": "87G7HXXW+WV"
+    },
+    "rating": 4.2,
+    "reference": "ChIJpXAOcQpFwokR07xO24rs4XQ",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "2010 Cropsey Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7634667,
+        "lng": -73.98460829999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.76475772989271,
+          "lng": -73.98333082010727
+        },
+        "southwest": {
+          "lat": 40.76205807010727,
+          "lng": -73.98603047989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Russian Vodka Room",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141634096190960987\">Jay Bala</a>"
+        ],
+        "photo_reference": "Aap_uECMn8Ys_bCtZJvCTJzqW3TnzUF6yOAgJpSsvCVHMOSpnmSsTAKYr1aCMrq9zYTwqckRvTbVZTTIyppMtF_3TfyfBolIi_1WBBPEuNPr5XX4Ev0-GrSLsp28Kg99vyCbNtZRLFcfeFgMa57lt1R2b8oMdD6O-4aDJ19qQ9BavE1fbZF0",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJhXPTuVdYwokRivX8-BKbO4Y",
+    "plus_code": {
+      "compound_code": "Q278+95 New York",
+      "global_code": "87G8Q278+95"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJhXPTuVdYwokRivX8-BKbO4Y",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 744,
+    "vicinity": "265 W 52nd St, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5949744,
+        "lng": -73.9545806
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.59635427989272,
+          "lng": -73.95328042010728
+        },
+        "southwest": {
+          "lat": 40.59365462010727,
+          "lng": -73.95598007989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Anyway Cafe",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4618,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103966666424806563032\">JOSEPH PANEPINTO</a>"
+        ],
+        "photo_reference": "Aap_uECnC0ngvbL22ijD-BzBUjqfWVrcTI7DcplQaUKja3wZX1kseoqJ3Xx0DyVfGohso2auvHzO6ssFFA-kp5nPFXBqmyHVXsf6b_YVThtjsoFXKJ8Nv3Sa40hsv4D0TjxAXxvYXUFsNiCNu4_yhAA_l4kRdeaCQrxIUIlHUvEf1-t7cSA",
+        "width": 3464
+      }
+    ],
+    "place_id": "ChIJ7ZocMopEwokRzTvApUJd62Q",
+    "plus_code": {
+      "compound_code": "H2VW+X5 Brooklyn, New York",
+      "global_code": "87G8H2VW+X5"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJ7ZocMopEwokRzTvApUJd62Q",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 368,
+    "vicinity": "1602 Gravesend Neck Rd, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5914082,
+        "lng": -73.960985
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.59276777989272,
+          "lng": -73.95950087010728
+        },
+        "southwest": {
+          "lat": 40.59006812010728,
+          "lng": -73.96220052989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Dynasty",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103374647188418170797\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uEDzXOwKbi3F2wVWlh-vvR2TaaCCipxtfzQnYxS64w-0WhWZJJcS99LnqA163ZhdbwjjDmy1BkIQ9sVuFnqMWekQdbcMNxxmYyEv1E75LItweEqj7lT7im7Y7CsMwBK7Y_OLgnXo-KWxbEMGR7TITHOxyrLJW0xFwO7qbJTO5DEGUWqv",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJM9qaeulFwokReF2EylRJGwE",
+    "plus_code": {
+      "compound_code": "H2RQ+HJ Brooklyn, New York",
+      "global_code": "87G8H2RQ+HJ"
+    },
+    "rating": 4,
+    "reference": "ChIJM9qaeulFwokReF2EylRJGwE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "2670 Coney Island Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7296907,
+        "lng": -74.00419269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.73109107989271,
+          "lng": -74.00284752010728
+        },
+        "southwest": {
+          "lat": 40.72839142010727,
+          "lng": -74.00554717989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Sveta",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105298927231556746526\">Roman Iospa</a>"
+        ],
+        "photo_reference": "Aap_uEBlY9oS0O26ES0VZqNDrsN4WvcqKgTyFcSFGpSE3HWU2-Z2tcQJTSrq7zP8cstuR915C7NnlM6tLGYkouRZcizDopcuVN2sepXiGc0xbJHtwmESXkiMCJAflMZQktjQHPJtWyWxmQc2hYqv6ZgTUMh2OXeLi5HKo7Hpl76bw5oabcZY",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJZ9_Q8pJZwokRNgf0n3Ledmw",
+    "plus_code": {
+      "compound_code": "PXHW+V8 New York",
+      "global_code": "87G7PXHW+V8"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJZ9_Q8pJZwokRNgf0n3Ledmw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 255,
+    "vicinity": "64 Carmine St, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.59101870000001,
+        "lng": -73.9404373
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.59251592989273,
+          "lng": -73.93897197010727
+        },
+        "southwest": {
+          "lat": 40.58981627010728,
+          "lng": -73.94167162989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Vanka Cafe",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107593614389664986608\">Rovshen Dovletmyradov</a>"
+        ],
+        "photo_reference": "Aap_uEBUKRJz7okOpZArXa3BKiB6miFxpypLcYklj8aXFPNMjb53mNdjMG-vYMn_uAH8Z3fwmIgHjUck__P6TQnYehDo51e6dri5i7qHPF5iP72yGlpIfaG9qApHk6f2sSWf5-97y8Pelxtcun1WXYKK3ouzwCPJSyTSZ_LJk5ywhGkFvQUc",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJAdncnoBEwokRtpRh7EFR6mQ",
+    "plus_code": {
+      "compound_code": "H3R5+CR Brooklyn, New York",
+      "global_code": "87G8H3R5+CR"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJAdncnoBEwokRtpRh7EFR6mQ",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 345,
+    "vicinity": "3810 Nostrand Ave., Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7648698,
+        "lng": -73.9794271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.76637692989273,
+          "lng": -73.97796852010727
+        },
+        "southwest": {
+          "lat": 40.76367727010728,
+          "lng": -73.98066817989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Russian Tea Room",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111921669111333296987\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uECFvwmcXFvSQlXTCk4Ha0GUWNubk51_bLp99wxvkUty0ouCVgQxmyLgimn6qSR4_um9qzsFovR1wNCC0yUDbX0qH3UuQAWhhORx-RE5MH_MfI1zgvcQM038LcTBf_Koy4-RLfFDzz-YZtLZu_KNLYHQMV9cLvPuwXrvmi5MpG4oRFzl",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJ_816e_dYwokROMvaQpsyemk",
+    "plus_code": {
+      "compound_code": "Q27C+W6 New York",
+      "global_code": "87G8Q27C+W6"
+    },
+    "price_level": 4,
+    "rating": 4,
+    "reference": "ChIJ_816e_dYwokROMvaQpsyemk",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1155,
+    "vicinity": "150 W 57th St, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.725212,
+        "lng": -73.990495
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.72646337989271,
+          "lng": -73.98921937010728
+        },
+        "southwest": {
+          "lat": 40.72376372010727,
+          "lng": -73.99191902989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Anyway Cafe",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116281576843541981252\">Henry Morgan</a>"
+        ],
+        "photo_reference": "Aap_uECanRBCig0Yt1wZkixBocY4o-4pARzeZauKrR_DawAPb34KSK00b2IuBjbfdKPuqQxZngdFIreCCE7xrxpeMS5739IZ6eDLK9P86px8dmaVSut7cYEHsonXbWV3qQAgaaUyRhYKV6auq6xFVzKc2MUeV0Dv-G3uTW6ijqFW3K06ocGv",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJfeab64RZwokRUs0MziEuwYk",
+    "plus_code": {
+      "compound_code": "P2G5+3R New York",
+      "global_code": "87G8P2G5+3R"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJfeab64RZwokRUs0MziEuwYk",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 369,
+    "vicinity": "34 E 2nd St, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5941519,
+        "lng": -73.96126170000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.59557752989272,
+          "lng": -73.95971972010729
+        },
+        "southwest": {
+          "lat": 40.59287787010728,
+          "lng": -73.96241937989274
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Chateau De Capitaine",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100512636404916192782\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uEAX309jHj3aupWcF_0DLDX3YL1q9jsuYF62ZJLWouaGr8Dccy-RwD4dDzb9YAGAB1nelnFouiUL0PbPApPQ26GmMxocPA9yucY76XJUJ9dfNRpEa3BLeYL-I25ESpaMHWfPaHdcu_4NHjJt7jLac4s9kDKOJ9tunA6Y0SFK-jrvIhOB",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJrZDn21dEwokR0N9Hys1N1HI",
+    "plus_code": {
+      "compound_code": "H2VQ+MF New York",
+      "global_code": "87G8H2VQ+MF"
+    },
+    "price_level": 3,
+    "rating": 4.3,
+    "reference": "ChIJrZDn21dEwokR0N9Hys1N1HI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 429,
+    "vicinity": "2570 Coney Island Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.6055758,
+        "lng": -74.0005924
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.60697567989273,
+          "lng": -73.99931602010729
+        },
+        "southwest": {
+          "lat": 40.60427602010729,
+          "lng": -74.00201567989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Eddie Fancy Food",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108564407547168682654\">Alvin Cheung</a>"
+        ],
+        "photo_reference": "Aap_uEAGVdSP3Gq_XCaYstf69XgLdaxECQYHpSlQxuzAmsuCtTGcL67z6WapIbCNkqu9ilHl2pZrqChhiIQuaIPmAt7GA7b5hbhojTq8r5XByUF9MYonwY-H1s-Npu7cpaE2k3_OQl6RZshKWz2jNX57Q1zQiA2CRY629whg3ROZKHr6yfrI",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJKUwsIAxFwokR62smhFOQnT0",
+    "plus_code": {
+      "compound_code": "JX4X+6Q New York",
+      "global_code": "87G7JX4X+6Q"
+    },
+    "rating": 4.4,
+    "reference": "ChIJKUwsIAxFwokR62smhFOQnT0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 81,
+    "vicinity": "8611 19th Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.6051967,
+        "lng": -73.981888
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.60654652989273,
+          "lng": -73.98053817010728
+        },
+        "southwest": {
+          "lat": 40.60384687010728,
+          "lng": -73.98323782989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Almaz",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1361,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101065082313918531212\">Almaz Restaurant</a>"
+        ],
+        "photo_reference": "Aap_uECUZPLe54deKv41tjXmF1GKlrUIFImr5j4HQludxbBjRcaxkNokkLNaT2ki3cmeSgfmn2cscGepq0-DiY4cYDexQivbpoNtMdrivhgpQtgPn1yIbDSbfFT5__d9SqJPRI20MtxLnn9a_yuFbn1ZI0JRXn-dz-9U7v3376itXtJAcpXE",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJLyLZa_1EwokRGSVDkujW7wo",
+    "plus_code": {
+      "compound_code": "J249+36 Brooklyn, New York",
+      "global_code": "87G8J249+36"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJLyLZa_1EwokRGSVDkujW7wo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 142,
+    "vicinity": "238 Kings Hwy, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.6318013,
+        "lng": -73.97553649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.63301152989272,
+          "lng": -73.97414707010728
+        },
+        "southwest": {
+          "lat": 40.63031187010728,
+          "lng": -73.97684672989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Emir Palace",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112696215252112992352\">Irshad Ahmed</a>"
+        ],
+        "photo_reference": "Aap_uECIIbkO_9LVFk0HOxUAwEiWUsazy8OYroHeLAPHMzoHEMrsMIrosSrBUakCImLtxDYvxHKplyGqsbPpBzo25ei36wGFgfREFbdQqG1N7XtIPwHgGRlIMapoML-yEi2yFY3ExANUXnB3soIftbdOn26UshJ-mXhJQzbOlMySWg7VZkVB",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJbyjLv9NEwokR9BzkZxhdzKc",
+    "plus_code": {
+      "compound_code": "J2JF+PQ New York",
+      "global_code": "87G8J2JF+PQ"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJbyjLv9NEwokR9BzkZxhdzKc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 607,
+    "vicinity": "4210 18th Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7276683,
+        "lng": -73.864085
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.72899392989272,
+          "lng": -73.86266697010728
+        },
+        "southwest": {
+          "lat": 40.72629427010727,
+          "lng": -73.86536662989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Cheburechnaya",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105876418576791990957\">Dmitriy Epel</a>"
+        ],
+        "photo_reference": "Aap_uEB1z9-JyNuobzrdqwF-QLpfx_MdSrs6Ahp5TDz99xZc79QXD0P1ePKzwdhEMo5U5JONu1ezzv9BasMC87ZJhGsyjaBjzmQdtDBLBUXHb0p0sMLTvgR4WiYLdGAMyPC9iPN-J4pZUdydTeJxTFOl_U0FLTQzfEG3xpoRIHXcAVLn0h9z",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvYUjGDhewokRbYkZ4ofxbcA",
+    "plus_code": {
+      "compound_code": "P4HP+39 New York",
+      "global_code": "87G8P4HP+39"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJvYUjGDhewokRbYkZ4ofxbcA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 710,
+    "vicinity": "9209 63rd Dr, Queens"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.6043892,
+        "lng": -73.97275840000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.60566602989272,
+          "lng": -73.97142272010727
+        },
+        "southwest": {
+          "lat": 40.60296637010728,
+          "lng": -73.97412237989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Vernissage Cafe",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114018402006862939696\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uEDNxHovWrObcwq9jvc2gGyE52geSKKQYufOn_Ka6fKamTQkjV5jVmgHZXOYTnhcUTFChRkCZwHzxSCe13ji-yvCuboMJfeefEpAdrEBvQon8NqR-nn0q_AfZ_jjz-L_-RQ4H07AiOECUgPEIgvTTupMQipqRrQRYZTfVSleZH-lE8mI",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJw0XxPA1FwokR0kaiP__aCWk",
+    "plus_code": {
+      "compound_code": "J23G+QV New York",
+      "global_code": "87G8J23G+QV"
+    },
+    "rating": 4.7,
+    "reference": "ChIJw0XxPA1FwokR0kaiP__aCWk",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "461 Kings Hwy, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.610067,
+        "lng": -73.983566
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.61151052989273,
+          "lng": -73.98225502010727
+        },
+        "southwest": {
+          "lat": 40.60881087010728,
+          "lng": -73.98495467989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Cafe Lily",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105164995097261950143\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uECSZrjgH8aN0ldq7PsJPPVQGHyzAvds40zDS7G4fEliMqlTUGF6gYIk07N4tAYAsm8pzBnzBjCY9-3eAU4hkKAV3U331cQo78o6YlO5h5mNnb0lk190yhSoiDh1ck6WY3cAF0C56YEbfN67i7nGMO1sFCz5RK8jt1g_0EHD1BOBSYa4",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJp_lWjh1FwokR5RKhtfM78j4",
+    "plus_code": {
+      "compound_code": "J268+2H Brooklyn, New York",
+      "global_code": "87G8J268+2H"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJp_lWjh1FwokR5RKhtfM78j4",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "42 Avenue O, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7267403,
+        "lng": -73.8518369
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.72807982989272,
+          "lng": -73.85054532010729
+        },
+        "southwest": {
+          "lat": 40.72538017010728,
+          "lng": -73.85324497989274
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Cafe Arzu",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110928605764224418121\">Otabek Kuldoshyev</a>"
+        ],
+        "photo_reference": "Aap_uECCki4uUwlxC6hN5bCxbp12dOxd2oQgnIf_SOyvl0NTXmVuwOeuupITF4EAQlatUKqXshFtP85CMUXxfbYYPaCWg9w_XCk7HEQuvRFrbXn3n7mE5Weog4mykCcUFWl-ZlfBvWApIUCSgiBoUDUWJqV9TNmrWNvOiOhu0SdpMhVqBYqV",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ15ecii9ewokRY72ToU9Owds",
+    "plus_code": {
+      "compound_code": "P4GX+M7 New York",
+      "global_code": "87G8P4GX+M7"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJ15ecii9ewokRY72ToU9Owds",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 264,
+    "vicinity": "101-05 Queens Blvd, Queens"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.73349,
+        "lng": -73.849491
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.73478897989272,
+          "lng": -73.84831232010728
+        },
+        "southwest": {
+          "lat": 40.73208932010728,
+          "lng": -73.85101197989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Salute",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103665968614425959519\">karim kholikov</a>"
+        ],
+        "photo_reference": "Aap_uECwOh2s2WkpuJ7tTAqgVHYPEZrpMS6pLvob-X88aU44_Ep2xB09xw8FwVp2-_x7xvHG_xFILl37sALiVOXqpOw6nHNI3iaTKgqzwVGwRe88xFY1v8TIGxcu6ShAOdZxWH5OXEzHawoBVzMkRkSn_x8n5yVJDj5IyJRbSd7AgOyWDmM-",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJJzPh-CxewokRgaZMaVN6Bhw",
+    "plus_code": {
+      "compound_code": "P5M2+96 New York",
+      "global_code": "87G8P5M2+96"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJJzPh-CxewokRgaZMaVN6Bhw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 249,
+    "vicinity": "6361 108th St, Forest Hills"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.6058807,
+        "lng": -73.99672699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.60726502989272,
+          "lng": -73.99544362010728
+        },
+        "southwest": {
+          "lat": 40.60456537010728,
+          "lng": -73.99814327989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Belka Deli",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3006,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115354096318086584445\">IK Films</a>"
+        ],
+        "photo_reference": "Aap_uEDwNmps93rbCKRsbo5mEZgHEusAJ98nOVBjIAnj3fvKJCbI-PZRX5Hp0nqCXvzbxehhNfJqaA8hRCBtvQPt72RjxiSfI7zH23UWkJZ75JMOGY6QdhtYK3zZaamIL2hzrEIIipKPvnVmt7vcwZ9XHh14a9Vecu3nRjR8P2APzTYa0K1N",
+        "width": 5344
+      }
+    ],
+    "place_id": "ChIJ6wzVCA9FwokRBnAwSaAi9Sc",
+    "plus_code": {
+      "compound_code": "J243+98 New York",
+      "global_code": "87G8J243+98"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ6wzVCA9FwokRBnAwSaAi9Sc",
+    "scope": "GOOGLE",
+    "types": [
+      "grocery_or_supermarket",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 103,
+    "vicinity": "8319 20th Ave, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.727101,
+        "lng": -73.864605
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.72840542989272,
+          "lng": -73.86313512010727
+        },
+        "southwest": {
+          "lat": 40.72570577010728,
+          "lng": -73.86583477989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Prestige",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103591537450458984062\">pesach</a>"
+        ],
+        "photo_reference": "Aap_uEDl7_e2L8wgSK6qydNzpcwbAC6VZ6ROh2r61T2los-SN7l1AsVuBDBfil4OxQseTDRriX-40aRlzsFJ4tk-D_ewHWeTTpV3JoYCTC8dbntwwSK1yFPbUXoGqLkpWr8HOhKjZc8Ftxr4OkznHb86j8riWdNkUCOYUemvGYQcVLrjCOw8",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJTYZKbThewokRJ2tBNmtg9IE",
+    "plus_code": {
+      "compound_code": "P4GP+R5 New York",
+      "global_code": "87G8P4GP+R5"
+    },
+    "rating": 4.5,
+    "reference": "ChIJTYZKbThewokRJ2tBNmtg9IE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 103,
+    "vicinity": "91-33 63rd Dr, Queens"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.732628,
+        "lng": -73.8498661
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.73403982989272,
+          "lng": -73.84833657010728
+        },
+        "southwest": {
+          "lat": 40.73134017010727,
+          "lng": -73.85103622989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Nadezhda",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114785614660893832944\">Hephzibah</a>"
+        ],
+        "photo_reference": "Aap_uEC7haG4L11mAg1rCVoLsMvpber91UA55LnGgAoYv-TaRw6g9X0Ly1e-jAYvEcrpR_Yuu7iQa3O0bTfFcv-OeskwIgeBpbqLtBkTLXJDZfYX2eI_fPY0bmPT-HZKpa0tjoGfTNj92sHYs96ah8S929HbXUGRYFGtjLZOqfdELEecqWCu",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJV0KgRixewokR-bhSHydh9oo",
+    "plus_code": {
+      "compound_code": "P5M2+33 New York",
+      "global_code": "87G8P5M2+33"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJV0KgRixewokR-bhSHydh9oo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 157,
+    "vicinity": "6406 108th St, Queens"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5878467,
+        "lng": -73.9601139
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.58919217989272,
+          "lng": -73.95886732010729
+        },
+        "southwest": {
+          "lat": 40.58649252010728,
+          "lng": -73.96156697989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Tsob Tsobe",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105947682681308823309\">Hohol Stars</a>"
+        ],
+        "photo_reference": "Aap_uEC-aesZWQZTvs-YIrmmEWIfQJTn67PKqS-pG8DpKyUQrS0z0HthQeTT2Z0aGUfG63zn-k9NkfstaXP3Sai3nYAOTy_Sz5pWZYSiw0J8VR4HD8YXVfPCpMY-2RRJEP85CSiZcuPrRi-zAlEFNmjfMZFpziPo0jatXwTmRzce9QhDxdZ8",
+        "width": 3984
+      }
+    ],
+    "place_id": "ChIJ2RMYH1hFwokRA0M-4GQmVtI",
+    "plus_code": {
+      "compound_code": "H2QQ+4X Brooklyn, New York",
+      "global_code": "87G8H2QQ+4X"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJ2RMYH1hFwokRA0M-4GQmVtI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 708,
+    "vicinity": "2817 Coney Island Ave floor #1, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7054013,
+        "lng": -73.896666
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.70678422989272,
+          "lng": -73.89519892010728
+        },
+        "southwest": {
+          "lat": 40.70408457010728,
+          "lng": -73.89789857989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Varenyk House",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+        ],
+        "photo_reference": "Aap_uEBQ7k0RlO_SbbjNQRKwDULSim_FzQwesACfqqqMuCMKjV3iWFLLl3p17pG4MMklJN5ZWVEMHdsc4JG2uU9FCg8FK6edSTQzoTNfoAvIa5rUh0iBu248SLVMTbveGiYzpCJJSxJLPLoiTkcMvneHUc6Yxtw-dUiuM3hM0tqnIIIV10Wb",
+        "width": 750
+      }
+    ],
+    "place_id": "ChIJuVtLO6JfwokR7PsurFf4-UA",
+    "plus_code": {
+      "compound_code": "P443+58 New York",
+      "global_code": "87G8P443+58"
+    },
+    "rating": 5,
+    "reference": "ChIJuVtLO6JfwokR7PsurFf4-UA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "67-14 Fresh Pond Rd, Queens"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7288915,
+        "lng": -73.9870955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.73027927989272,
+          "lng": -73.98589877010727
+        },
+        "southwest": {
+          "lat": 40.72757962010728,
+          "lng": -73.9885984298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Ukrainian East Village Restaurant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113045329078294040052\">Trey Cox</a>"
+        ],
+        "photo_reference": "Aap_uEBCePSYlZvJ1ffkQfUtXmXJICi7qwrQQOwsMofa45VuF9IIgWSd4dbNXbEMy_5Hm1Nkqc4x0cCE6W0aMCPht3X0Sp2g1a8MIiQl3dp0JhmF88i2JANXlcVAIV4omdMO5WW8Sqw93OqFUm9GFmky9ykgC6S-jgNPWDBQGCA8_6O8rBLN",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ1drDXZxZwokReMnq1ogIjzY",
+    "plus_code": {
+      "compound_code": "P2H7+H5 New York",
+      "global_code": "87G8P2H7+H5"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJ1drDXZxZwokReMnq1ogIjzY",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 503,
+    "vicinity": "140 2nd Ave, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7264178,
+        "lng": -73.8706531
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.72780867989272,
+          "lng": -73.86921867010727
+        },
+        "southwest": {
+          "lat": 40.72510902010728,
+          "lng": -73.87191832989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Taste of Samarkand",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100473362484833201930\">Roro Jk</a>"
+        ],
+        "photo_reference": "Aap_uEDSk-nORGPm_kDWWt61G4-SM67UFvJTGaHE0yswGZ2X-Uv7LC2s3HSpGhEOL__dWLn2WNJLUrvao1S9-t2T6_RDuVoykobb4QrhKTSKOOotFK1_8YBm-sUxa7k-Gf7bVLeJQS_UHz5CU3kv8RsT_kS2zdSIe2spJGIRyNBbnSLr4jSz",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJtz7lhUZewokRzhgzB9ghR1k",
+    "plus_code": {
+      "compound_code": "P4GH+HP Rego Park, Queens, NY",
+      "global_code": "87G8P4GH+HP"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJtz7lhUZewokRzhgzB9ghR1k",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 589,
+    "vicinity": "62-16 Woodhaven Blvd, Rego Park"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.5865048,
+        "lng": -73.95187849999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.58780012989273,
+          "lng": -73.95069907010728
+        },
+        "southwest": {
+          "lat": 40.58510047010728,
+          "lng": -73.95339872989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Nargis Cafe",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2557,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110500708339238169549\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uEDo6jq_T7Ol6ouP9ulA5yC5b83HNkVZp6xiolPllnhk6WxChaO03i4jzw9YVUqYntMXxVsaU6HZF3569qilpyYgROdQPGMIzvNsPjWR9LUMGvaN93-2RTxjtTocztQD45TEBYtPUlxWUlWYztuEj7IeTrzsd76f0PXAkz79PnV7Mu7t",
+        "width": 3861
+      }
+    ],
+    "place_id": "ChIJdZ_Q6F1EwokR_N8wFMX7W3o",
+    "plus_code": {
+      "compound_code": "H2PX+J6 New York",
+      "global_code": "87G8H2PX+J6"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJdZ_Q6F1EwokR_N8wFMX7W3o",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2043,
+    "vicinity": "1655 Sheepshead Bay Rd, Brooklyn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7323698,
+        "lng": -73.8567235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.73381222989272,
+          "lng": -73.85539192010728
+        },
+        "southwest": {
+          "lat": 40.73111257010728,
+          "lng": -73.85809157989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Tandoori Food & Bakery",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111091154661158132980\">Ali Maleki</a>"
+        ],
+        "photo_reference": "Aap_uEAgR5fuBTuAavToB_CrquK5BfsYHtgWTkIHjH96uTELw0XNvb6ulGGy9lq1SaKxy2R3O6UF0amiHypsVLNtRJdsITKHL_wjYJKZ5j69ijt9KJmO7Wh136IgNDZOVNnHa0IqjWoUw_VUwoFAMo9Y9-wfR9XctyTSGU7-8gSyB6K3jLkq",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJFaqkgzFewokR-a6D5P_Am7s",
+    "plus_code": {
+      "compound_code": "P4JV+W8 Rego Park, Queens, NY",
+      "global_code": "87G8P4JV+W8"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJFaqkgzFewokR-a6D5P_Am7s",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 260,
+    "vicinity": "9904 63rd Rd, Rego Park"
+  }
+  ]
+]
