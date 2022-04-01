@@ -1,0 +1,2 @@
+CREATE DATABASE fastapidb;
+CREATE DATABASE testdb;

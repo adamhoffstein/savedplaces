@@ -5,6 +5,7 @@
         <v-col cols="12" md="6">
           <v-text-field
             solo
+            clearable
             label="Where do you want to look?"
             append-icon="mdi-map-marker"
             v-model="queryInfo.location"
@@ -14,10 +15,21 @@
           </v-text-field>
         </v-col>
         <v-col cols="12" md="3">
-          <v-text-field solo v-model="queryInfo.keyword" label="What are you craving?"> </v-text-field>
+          <v-text-field
+            solo
+            v-model="queryInfo.keyword"
+            clearable
+            label="What are you craving?"
+          >
+          </v-text-field>
         </v-col>
         <v-col cols="12" md="3">
-          <v-select solo v-model="queryInfo.radius" label="How far away?" :items="radii">
+          <v-select
+            solo
+            v-model="queryInfo.radius"
+            label="How far away?"
+            :items="radii"
+          >
           </v-select>
         </v-col>
       </v-row>
@@ -27,44 +39,56 @@
       <v-col>
         <v-row>
           <v-card class="mx-3 mb-6 mt-3 elevation-0 rounded-0" width="100%">
-            <v-card-title>
-              Rating Filter:
-              <v-rating
-                v-model="queryInfo.rating"
-                background-color="white"
-                color="yellow accent-4"
-                dense
-                half-increments
-                hover
-                size="24"
-              ></v-rating>
-            </v-card-title>
             <v-card-actions>
-              <v-btn @click="findButtonPressed"
-              :disabled="!queryInfo.lat"
-              >Find Nearby</v-btn>
+              <v-btn @click="findButtonPressed" :disabled="!queryInfo.lat"
+                >Find Nearby</v-btn
+              >
+              <v-btn>
+                Save Items
+              </v-btn>
             </v-card-actions>
           </v-card>
         </v-row>
         <v-list two-line width="100%" class="overflow-y-auto" max-height="600">
-          <v-list-item v-for="place in places" :key="place.id">
-            <v-list-item-content>
-              <v-list-item-title>{{ place.name }}</v-list-item-title>
-              <v-list-item-subtitle>{{ place.vicinity.slice(0, 65) }}</v-list-item-subtitle>
-            </v-list-item-content>
-            <p class="text-caption pt-4 pl-2" v-if="place.user_ratings_total">
-              ({{ place.user_ratings_total }})
-            </p>
-            <v-rating
-              v-model="place.rating"
-              background-color="white"
-              color="yellow accent-4"
-              half-increments
-              hover
-              size="18"
-              readonly
-            ></v-rating>
-          </v-list-item>
+          <v-list-item-group
+            v-model="selected"
+            active-class="primary--text"
+            multiple
+          >
+            <template v-for="(place, index) in places">
+              <!-- eslint-disable vue/no-v-html -->
+              <v-list-item v-bind:key="place.id">
+              <!-- eslint-enable -->
+                <template>
+                  <v-list-item-content>
+                    <v-list-item-title v-text="place.name"></v-list-item-title>
+                    <v-list-item-subtitle
+                      v-text="place.vicinity.slice(0, 65)"
+                    ></v-list-item-subtitle>
+                  </v-list-item-content>
+                  <p
+                    class="text-caption pt-4 pl-2"
+                    v-if="place.user_ratings_total"
+                  >
+                    ({{ place.user_ratings_total }})
+                  </p>
+                  <v-rating
+                    v-model="place.rating"
+                    background-color="white"
+                    color="yellow accent-4"
+                    half-increments
+                    hover
+                    size="18"
+                    readonly
+                  ></v-rating>
+                </template>
+              </v-list-item>
+              <v-divider
+                v-if="index < places.length - 1"
+                :key="index"
+              ></v-divider>
+            </template>
+          </v-list-item-group>
         </v-list>
         <div>debug area: {{ coordinates }}</div>
       </v-col>
@@ -109,13 +133,15 @@ export default {
         radii: ['5', '10', '15', '20'],
         places: [{name: 'Your results will appear here', vicinity: 'type something to get started'}],
         markers: [],
+        priceranges: ['$','$$','$$$'],
         queryInfo: {
           lat: null,
           lon: null,
           radius: null,
           keyword: null,
           rating: 4.5
-      }
+      },
+      selected: []
     }
   },
   computed: {

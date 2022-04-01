@@ -3,7 +3,7 @@
     <v-app-bar app color="primary" flat dark>
       <v-container fluid class="py-0 fill-height">
         <v-btn v-if="currentUser" text to="/">
-          <v-icon> mdi-home </v-icon>
+          <v-icon> mdi-filter </v-icon>
         </v-btn>
         <v-spacer></v-spacer>
         <v-btn v-if="currentUser" text @click="logOut"> Sign Out </v-btn>
