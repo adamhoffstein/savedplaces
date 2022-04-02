@@ -1,0 +1,6 @@
+#!/bin/bash
+parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
+parent_dir="$(dirname "$parent_path")"
+cd $parent_dir/backend/
+./lint.sh
+exit 0
