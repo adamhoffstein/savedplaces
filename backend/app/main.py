@@ -1,7 +1,5 @@
 from fastapi import FastAPI
-from app.routes import (
-    nearby, users
-)
+from app.routes import nearby, users, auth
 from starlette.middleware.cors import CORSMiddleware
 
 app = FastAPI()
@@ -20,3 +18,4 @@ app.add_middleware(
 
 app.include_router(nearby.router, prefix="/nearby", tags=["nearby"])
 app.include_router(users.router, prefix="/users", tags=["users"])
+app.include_router(auth.router, prefix="/auth", tags=["auth"])

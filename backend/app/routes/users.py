@@ -13,7 +13,7 @@ from app.resources.exceptions.users import (
 router = APIRouter()
 
 
-@router.post("/create", response_model=schemas.User)
+@router.post("/", response_model=schemas.User)
 def create_user(user: schemas.UserCreate, db: Session = Depends(get_db)):
     db_user_email = users.get_by_email(db, email=user.email)
     db_user_name = users.get_by_username(db, username=user.username)
