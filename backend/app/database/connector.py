@@ -15,8 +15,6 @@ sqlUrl = engine.url.URL.create(
     database=settings.db_name,
 )
 
-print(sqlUrl)
-
 metadata = MetaData()
 
 engine = create_engine(

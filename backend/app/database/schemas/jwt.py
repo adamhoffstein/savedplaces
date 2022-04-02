@@ -7,3 +7,7 @@ class Token(BaseModel):
     refresh_token: str
     token_type: str = "bearer"
     super_admin: Optional[bool]
+
+
+class TokenData(BaseModel):
+    username: Optional[str] = None
