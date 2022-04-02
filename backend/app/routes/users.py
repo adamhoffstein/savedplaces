@@ -1,3 +1,4 @@
+from typing import List
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 from app.database.connector import get_db
@@ -25,3 +26,11 @@ def create_user(user: schemas.UserCreate, db: Session = Depends(get_db)):
         raise USERNAME_ALREADY_REGISTERED
     user.hashed_password = login.get_password_hash(user.hashed_password)
     return users.create(db=db, user=user)
+
+
+@router.get("/all", response_model=List[schemas.User])
+def read_users(
+    db: Session = Depends(get_db),
+    current_user: schemas.User = Depends(login.user_logged_in),
+):
+    return users.get_all(db)
