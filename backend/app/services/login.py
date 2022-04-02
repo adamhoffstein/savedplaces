@@ -20,15 +20,42 @@ SETTINGS = get_app_settings()
 OAUTH2_SCHEME = OAuth2PasswordBearer(tokenUrl="auth/token")
 
 
-def verify_password(plain_password: str, hashed_password: str) -> str:
+def verify_password(plain_password: str, hashed_password: str) -> bool:
+    """Verify a user's password
+
+    Parameters:
+    plain_password (string): the password of the user
+    hashed_password (string): the hashed password of the user
+
+    Returns:
+    bool: whether or not the password has been verified
+    """
     return PWD_CONTEXT.verify(plain_password, hashed_password)
 
 
 def get_password_hash(password: str) -> str:
+    """Verify a user's password
+
+    Parameters:
+    plain_password (string): the username of the user
+
+    Returns:
+    string: the hashed password of the user
+    """
     return PWD_CONTEXT.hash(password)
 
 
 def authenticate_user(db, username: str, password: str) -> models.User:
+    """Authenticate a user
+
+    Parameters:
+    db (Session): database session
+    username (string): the username of the user
+    password (string): the password of the user
+
+    Returns:
+    models.User: the authenticated user in the database
+    """
     user = users.get_by_username(db, username)
     if not user:
         return False
@@ -38,6 +65,14 @@ def authenticate_user(db, username: str, password: str) -> models.User:
 
 
 def create_token(user) -> Token:
+    """Create access / refresh tokens
+
+    Parameters:
+    user (models.User): the user to create a token for
+
+    Returns:
+    schemas.Token: the auth token
+    """
     access_token_expires = timedelta(
         minutes=SETTINGS.access_token_expire_minutes
     )
@@ -61,7 +96,16 @@ def create_token(user) -> Token:
     }
 
 
-def create_encoded_jwt(data: dict, expires_delta: Optional[timedelta] = None):
+def create_encoded_jwt(data: dict, expires_delta: Optional[timedelta] = None) -> str:
+    """Encode JWT data
+
+    Parameters:
+    data (dict): the data to encode
+    expires_delta (timedelta): when the data should expire
+
+    Returns:
+    string: the encoded jwt string
+    """
     to_encode = data.copy()
     if expires_delta:
         expire = datetime.utcnow() + expires_delta
@@ -77,6 +121,15 @@ def create_encoded_jwt(data: dict, expires_delta: Optional[timedelta] = None):
 async def get_current_user(
     token: str = Depends(OAUTH2_SCHEME), db: Session = Depends(get_db)
 ) -> models.User:
+    """Determine which user is logged in
+
+    Parameters:
+    db (Session): database session
+    token (string): auth token passed by the user
+
+    Returns:
+    models.User: the user in the database
+    """
     try:
         payload = jwt.decode(
             token, SETTINGS.secret_key, algorithms=[SETTINGS.algorithm]
@@ -96,6 +149,14 @@ async def get_current_user(
 async def user_logged_in(
     current_user: models.User = Depends(get_current_user),
 ) -> models.User:
+    """Determine whether or not a user is logged in
+
+    Parameters:
+    current_user (models.User): logged in the user
+
+    Returns:
+    models.User: the user in the database
+    """
     if current_user.disabled:
         raise USER_INACTIVE
     return current_user

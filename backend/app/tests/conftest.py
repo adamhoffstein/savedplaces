@@ -18,7 +18,7 @@ def create_admin():
     data = {
         "username": SETTINGS.test_admin_user,
         "hashed_password": SETTINGS.test_admin_password,
-        "email": f"{SETTINGS.test_admin_user}@gogox.com",
+        "email": f"{SETTINGS.test_admin_user}@gmail.com",
         "full_name": f"{SETTINGS.test_admin_user.replace('_', ' ').title()}",
     }
     response = client.post("/users/create", json.dumps(data))

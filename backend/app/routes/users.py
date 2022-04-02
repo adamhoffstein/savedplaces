@@ -46,7 +46,7 @@ def get_user(
 
 
 @router.delete("/", response_model=schemas.User)
-def get_user(
+def delete_user(
     user_id: int,
     db: Session = Depends(get_db),
     current_user: schemas.User = Depends(login.user_logged_in),

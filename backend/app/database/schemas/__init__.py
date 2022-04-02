@@ -53,8 +53,13 @@ class PlaceList(BaseModel):
     id: int
     updated_date: Optional[datetime]
     created_date: datetime
-    assignedplaces: Optional[List[Place]]
+    places: Optional[List[Place]]
     owner: User
 
     class Config:
         orm_mode = True
+
+
+class PlaceListUpdate(BaseModel):
+    id: int
+    name: str

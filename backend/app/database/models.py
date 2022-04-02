@@ -5,8 +5,9 @@ from sqlalchemy import (
     Integer,
     String,
     DateTime,
+    Table,
 )
-from sqlalchemy.orm import relationship, backref, declarative_mixin
+from sqlalchemy.orm import relationship, declarative_mixin
 from sqlalchemy.sql import func
 from app.database.connector import Base
 
@@ -26,7 +27,6 @@ class User(TimestampMixin, Base):
     super_admin = Column(Boolean, default=False)
     hashed_password = Column(String)
     disabled = Column(Boolean, default=False)
-    assignedplacelists = relationship("PlaceList", secondary="savedplaces")
 
 
 class PlaceList(TimestampMixin, Base):
@@ -39,7 +39,7 @@ class PlaceList(TimestampMixin, Base):
         primaryjoin="PlaceList.owner_id == User.id",
         backref="placelists",
     )
-    assignedplaces = relationship("Place", secondary="savedplaces")
+    places = relationship("Place", secondary="place_placelist")
 
 
 class Place(TimestampMixin, Base):
@@ -53,31 +53,14 @@ class Place(TimestampMixin, Base):
         primaryjoin="Place.owner_id == User.id",
         backref="places",
     )
-    assignedplacelists = relationship("PlaceList", secondary="savedplaces")
-
-
-class SavedPlace(TimestampMixin, Base):
-    __tablename__ = "savedplaces"
-    __mapper_args__ = {"confirm_deleted_rows": False}
-    id = Column(Integer, primary_key=True)
-    user_id = Column(Integer, ForeignKey("users.id"))
-    place_id = Column(Integer, ForeignKey("places.id"))
-    placelist_id = Column(Integer, ForeignKey("placelists.id"))
-
-    user = relationship(
-        User,
-        backref=backref("savedplaces", cascade="all, delete-orphan"),
-        # overlaps="assignedplaces"
+    placelists = relationship(
+        "PlaceList", secondary="place_placelist", overlaps="places"
     )
 
-    placelist = relationship(
-        PlaceList,
-        backref=backref("savedplaces", cascade="all, delete-orphan"),
-        # overlaps="assignedplaces"
-    )
 
-    place = relationship(
-        Place,
-        backref=backref("savedplaces", cascade="all, delete-orphan"),
-        # overlaps="assignedplaces"
-    )
+place_placelist = Table(
+    "place_placelist",
+    Base.metadata,
+    Column("place_id", Integer, ForeignKey("places.id")),
+    Column("placelist_id", Integer, ForeignKey("placelists.id")),
+)
