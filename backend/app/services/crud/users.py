@@ -52,7 +52,6 @@ def put(
     if user_in_db := get(db, info_to_update.id, logged_in_user):
         if logged_in_user != user_in_db:
             raise USER_INCORRECT_PERMISSIONS
-        print(info_to_update)
         return update_object(
             db=db, info_to_update=info_to_update, object_in_db=user_in_db
         )

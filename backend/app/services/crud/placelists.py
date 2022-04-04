@@ -131,7 +131,7 @@ def delete(
     Returns:
     models.PlaceList: the deleted placelist
     """
-    if placelist := get(db, placelist_id):
+    if placelist := get(db, placelist_id, logged_in_user):
         db.delete(placelist)
         db.commit()
         return placelist

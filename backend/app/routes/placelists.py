@@ -56,7 +56,7 @@ def get_all_placelists(
     return placelists.get_all(db, current_user)
 
 
-@router.get("/", response_model=schemas.Place)
+@router.get("/", response_model=schemas.PlaceList)
 def get_placelist(
     placelist_id: int,
     db: Session = Depends(get_db),
@@ -65,7 +65,7 @@ def get_placelist(
     return placelists.get(db, placelist_id, current_user)
 
 
-@router.delete("/", response_model=schemas.Place)
+@router.delete("/", response_model=schemas.PlaceList)
 def delete_placelist(
     placelist_id: int,
     db: Session = Depends(get_db),
@@ -74,7 +74,7 @@ def delete_placelist(
     return placelists.delete(db, placelist_id, current_user)
 
 
-@router.put("/", response_model=schemas.Place)
+@router.put("/", response_model=schemas.PlaceList)
 def update_placelist(
     placelist: schemas.PlaceListUpdate,
     db: Session = Depends(get_db),

@@ -96,7 +96,9 @@ def create_token(user) -> Token:
     }
 
 
-def create_encoded_jwt(data: dict, expires_delta: Optional[timedelta] = None) -> str:
+def create_encoded_jwt(
+    data: dict, expires_delta: Optional[timedelta] = None
+) -> str:
     """Encode JWT data
 
     Parameters:
