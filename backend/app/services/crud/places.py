@@ -97,7 +97,7 @@ def delete(
     Returns:
     models.Place: the deleted place
     """
-    if place := get(db, place_id):
+    if place := get(db, place_id, logged_in_user):
         db.delete(place)
         db.commit()
         return place

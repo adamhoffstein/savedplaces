@@ -4,13 +4,13 @@ services:
   backend:
     build:
       context: .
-      dockerfile: docker/backend-${ENV_STATE}.dockerfile
+      dockerfile: docker/backend.dockerfile
     command: uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 8000 --lifespan on
     environment:
       ENV_STATE: "${ENV_STATE:-dev}"
     volumes:
       - ./backend/app/:/app/app
-      - ./backend/.env:/app/.env
+      - ./backend/${ENV_STATE:-dev}.env:/app/.env
       - ./backend/alembic.ini/:/app/alembic.ini
       - ./backend/alembic/:/app/alembic/
     ports:
@@ -18,7 +18,7 @@ services:
   frontend:
     build:
       context: .
-      dockerfile: docker/frontend-${ENV_STATE}.dockerfile    
+      dockerfile: docker/frontend.dockerfile    
     environment:
       - CHOKIDAR_USEPOLLING=true
     volumes:
