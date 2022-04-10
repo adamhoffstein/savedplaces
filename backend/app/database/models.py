@@ -6,6 +6,7 @@ from sqlalchemy import (
     String,
     DateTime,
     Table,
+    JSON,
 )
 from sqlalchemy.orm import relationship, declarative_mixin
 from sqlalchemy.sql import func
@@ -48,6 +49,7 @@ class Place(TimestampMixin, Base):
     owner_id = Column(Integer, ForeignKey("users.id"))
     google_place_id = Column(String, unique=True, index=True)
     name = Column(String, index=True)
+    meta = Column(JSON, nullable=True)
     owner = relationship(
         "User",
         primaryjoin="Place.owner_id == User.id",
