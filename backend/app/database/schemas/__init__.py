@@ -57,6 +57,16 @@ class Place(PlaceBase):
         orm_mode = True
 
 
+class PlaceSmall(PlaceBase):
+    id: int
+    updated_date: Optional[datetime]
+    created_date: datetime
+    owner: User
+    
+    class Config:
+        orm_mode = True
+
+
 class PlaceUpdate(BaseModel):
     id: int
     name: str
@@ -67,7 +77,7 @@ class PlaceList(BaseModel):
     name: str
     updated_date: Optional[datetime]
     created_date: datetime
-    places: Optional[List[Place]]
+    places: Optional[List[PlaceSmall]]
     owner: User
 
     class Config:

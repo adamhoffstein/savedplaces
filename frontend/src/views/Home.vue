@@ -37,28 +37,25 @@
     <v-divider></v-divider>
     <v-row class="mt-6">
       <v-col>
-        <v-row>
-          <v-card class="mx-3 mb-6 mt-3 elevation-0 rounded-0" width="100%">
-            <v-card-actions>
-              <v-btn @click="findButtonPressed" :disabled="!queryInfo.lat"
-                >Find Nearby</v-btn
-              >
-              <v-btn>
-                Save Items
-              </v-btn>
-            </v-card-actions>
-          </v-card>
+        <v-row class="mx-0 mb-3">
+          <v-btn @click="findButtonPressed" :disabled="!queryInfo.lat"
+          class="mr-4"
+            >Find Nearby</v-btn
+          >
+          <v-btn>
+            Save Items
+          </v-btn>
         </v-row>
-        <v-list two-line width="100%" class="overflow-y-auto" max-height="600">
+        <v-list two-line width="100%" class="overflow-y-auto" max-height="600"
+        v-if="places.length>0"
+        >
           <v-list-item-group
             v-model="selected"
             active-class="primary--text"
             multiple
           >
             <template v-for="(place, index) in places">
-              <!-- eslint-disable vue/no-v-html -->
               <v-list-item v-bind:key="place.id">
-              <!-- eslint-enable -->
                 <template>
                   <v-list-item-content>
                     <v-list-item-title v-text="place.name"></v-list-item-title>
@@ -91,6 +88,7 @@
           </v-list-item-group>
         </v-list>
         <div>debug area: {{ coordinates }}</div>
+        <div>{{ selectedPlace }}</div>
       </v-col>
       <v-divider vertical></v-divider>
       <v-col>
@@ -131,7 +129,7 @@ export default {
     return {
         location: 'Current Location',
         radii: ['5', '10', '15', '20'],
-        places: [{name: 'Your results will appear here', vicinity: 'type something to get started'}],
+        places: [],
         markers: [],
         priceranges: ['$','$$','$$$'],
         queryInfo: {
@@ -147,6 +145,18 @@ export default {
   computed: {
     coordinates() {
       return `${this.queryInfo.lat}, ${this.queryInfo.lon}`;
+    },
+    selectedPlace() {
+      if (this.selected.length>0) {
+        var items = []
+        for (let i = 0; i < this.selected.length; i++) {
+          items.push(this.places[i].place_id)
+        }
+        return items
+      }
+      else {
+        return undefined
+      }
     }
   },
   methods: {

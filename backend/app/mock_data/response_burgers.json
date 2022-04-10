@@ -1,0 +1,2896 @@
+[
+  [
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 7.900421400000001,
+        "lng": 98.30046569999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.901761079892721,
+          "lng": 98.30181492989271
+        },
+        "southwest": {
+          "lat": 7.899061420107278,
+          "lng": 98.29911527010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Burgerboyz",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100187773054701663968\">A Google User</a>"
+        ],
+        "photo_reference": "Aap_uEArYPh-N7IXaWJWQyy-VrJJrAHXpwi9eAajY_XNoejOKqYFww4goc0pYlSwhq7DbT4Ig7CL0TPKbNTAH9I-pFhKh-1yui0cso4-TbqPILwspXNx2GXpqjs2WaVcEo1Iuk_xNObJDlLmF3Vmfkb0Lg7fQ01Be5u-B_LyNFIkV-nI4T0S",
+        "width": 4032
+      }
+      ],
+      "place_id": "ChIJkf-gWZg6UDARa0ydrp9DI6M",
+      "plus_code": {
+        "compound_code": "W822+55 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWW822+55"
+      },
+      "rating": 4.5,
+      "reference": "ChIJkf-gWZg6UDARa0ydrp9DI6M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 148,
+      "vicinity": "Soi Koknam, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.883603099999999,
+          "lng": 98.39307679999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.88486787989272,
+            "lng": 98.39441442989272
+          },
+          "southwest": {
+            "lat": 7.882168220107276,
+            "lng": 98.39171477010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "FIVE Loaves Burgers: Phuket Town",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100607646672028385831\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDWer5kZC9Xvs9UbIk0QvzkWqVroZNum7GGZZvWEtrry5D41zeZLUNXYXIGEwm1ZpNKWuiXC5ALcHChL06FMoNoZKOh4XDqmOFgg-UCBD31nBb-fJi4G6iTO7P8XQn3zU7wwB8sclt8nrxUZ2gx9oXZQP1PmkzLsNexdtvqEwHrpIUP",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJI1CpqPkxUDARr3lwEqc3tjg",
+      "plus_code": {
+        "compound_code": "V9MV+C6 Phuket, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9MV+C6"
+      },
+      "rating": 4.5,
+      "reference": "ChIJI1CpqPkxUDARr3lwEqc3tjg",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 401,
+      "vicinity": "169 1 Phangnga Rd, Tambon Talat Yai, เมือง"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.9074715,
+          "lng": 98.3289875
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.908777929892721,
+            "lng": 98.33037967989273
+          },
+          "southwest": {
+            "lat": 7.906078270107277,
+            "lng": 98.3276800201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Five Loaves Burger",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113609183113140084570\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECzIiHTrPxQGdmVa5OS_h_vBYmySI9uj0YykOPfwyPDU6q8OCpXpyEigdgpH3o3M7zZBtGgccKeorUM9ptq3dRLPqt5Dn1RD6moIMgKTMxzpKcQl8GMsYeCruIWnd7KhWhv1RnjK0OYJDHR9JH0CD-ST9CzaFHnaoVp6t1gdeHwdHHG",
+          "width": 1586
+        }
+      ],
+      "place_id": "ChIJI2kQQmgwUDARVz9nm4e9U5U",
+      "plus_code": {
+        "compound_code": "W84H+XH Kathu, Kathu District, Phuket",
+        "global_code": "6MVWW84H+XH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJI2kQQmgwUDARVz9nm4e9U5U",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 61,
+      "vicinity": "46/367 Kathu, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.892422000000001,
+          "lng": 98.2976925
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.89370207989272,
+            "lng": 98.29924517989272
+          },
+          "southwest": {
+            "lat": 7.891002420107276,
+            "lng": 98.29654552010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Prime Burger",
+      "photos": [
+        {
+          "height": 2049,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118169155252489432405\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECJE-l7jpm6kiP6h3_hkC20uwU5Xk0zlg1KZ2vwQoAaq9MX9R6_O17a35bdFt7qQ5wwp1atoJhMEXmxzNOIvJg-b14W96ThOzqIZDMtI9Z3iO3JkbmY-hHUVa8Z-WXwpw8aWZSBjUSTB1MSweMUGpmT8VLM_EVZkXkcHF6ugavkpKr5",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJX_9mQgE7UDARn3EaIDbWS3A",
+      "plus_code": {
+        "compound_code": "V7RX+X3 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7RX+X3"
+      },
+      "rating": 4.4,
+      "reference": "ChIJX_9mQgE7UDARn3EaIDbWS3A",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 85,
+      "vicinity": "198/9 Soi Rat Uthit 200 Pi 1, Pa Tong, Amphoe Kathu"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.893448599999999,
+          "lng": 98.29877859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.894817829892721,
+            "lng": 98.29997812989272
+          },
+          "southwest": {
+            "lat": 7.892118170107277,
+            "lng": 98.29727847010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "FAT MAMMA Burger Patong",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118359349512549202570\">Thanyalak Kanana</a>"
+          ],
+          "photo_reference": "Aap_uEB_byggwAZHs5pNgMWUgPkl4qln8ITk5rg41BwMxUwM1Mf5KYHTvEFCQZFb0mP9IhZUjT4xKLSXoVy0REGpE0ZqWdgLM9M5Tr8P8aeJSQHd-nxbHvWjgAf5TLM8KPY-x3zZ54SlhH64LA7OeES0UtFmO04_DBKBB9KOM2Xmvqvr7xuU",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJjUMYXJ47UDARUY5mJW22d2o",
+      "plus_code": {
+        "compound_code": "V7VX+9G Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7VX+9G"
+      },
+      "rating": 4.9,
+      "reference": "ChIJjUMYXJ47UDARUY5mJW22d2o",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "163, 37 Thanon Ratuthit Songroipi Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.817616099999999,
+          "lng": 98.3399628
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.818965929892721,
+            "lng": 98.34131262989273
+          },
+          "southwest": {
+            "lat": 7.816266270107277,
+            "lng": 98.33861297010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Mix Burger",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109625757947615209106\">Surasit Tabtong</a>"
+          ],
+          "photo_reference": "Aap_uEAygNkoO4Pw3yrSBMKyGNgzkbQfxFcRFWO5D-VVAj-3IREASPy4giWhcPyOMGeBN84o2TzeOYxpBmlQMcbluIbDsTJ_svd4ISyXzcCuix4rzkhAGZ_3Fh9S98k9Pe4-SU6VHggtCt5qZd8azVxSItazHlO2hg_fpcqCygPF40Alj5KI",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJr14TPwIvUDARkQ7o76Ahmn4",
+      "rating": 5,
+      "reference": "ChIJr14TPwIvUDARkQ7o76Ahmn4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "R89Q+2XW, Rawai, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8244681,
+          "lng": 98.2997565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.825780379892723,
+            "lng": 98.30111167989271
+          },
+          "southwest": {
+            "lat": 7.823080720107279,
+            "lng": 98.29841202010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "HASH Burger and More",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114666881397423797732\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECmeKwCPQpxI6EThoSO7Uwx2IBlsE_AfVe-CTqPP45hPF_k0x16uBKRX_UUWah4RIv0Y9hngSJl0p3BOoYgW96g6aUFhbMGlYpla2CePE-WK0gaI3Pdf-Mt_JGxezZz4lQ2XNmJ5db6U6hnyWfV_sfD_yPy7WQa37cQr7sYABIt04x6",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ24rQnm4lUDARiorTsCetLXs",
+      "plus_code": {
+        "compound_code": "R7FX+QW Karon, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR7FX+QW"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ24rQnm4lUDARiorTsCetLXs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 87,
+      "vicinity": "Kata Rd, Karon, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.824243399999999,
+          "lng": 98.29892699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.825503829892723,
+            "lng": 98.30018052989273
+          },
+          "southwest": {
+            "lat": 7.822804170107279,
+            "lng": 98.29748087010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "New York Burger Co.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106752776294773451410\">Chelsea Cochran</a>"
+          ],
+          "photo_reference": "Aap_uEDYrw-cdc_GeOqzCRaIfVvzb-vztH7RsD2pJA0oh1FmVS-PJfsY7BwCgLHEA0wqIDdYF_Qn802pY8mOMWVy7wUVtlmXebROgCumMWbcAXZu8xxCFpMPOi-f_My83ZlbTzt_bt-6AJ5DmuUUneiL7YEqOD3_7jinIMpibnxB-QPZNcsf",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJD5-zRYUlUDARGCT6M9Y7YCk",
+      "plus_code": {
+        "compound_code": "R7FX+MH Karon, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR7FX+MH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJD5-zRYUlUDARGCT6M9Y7YCk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 250,
+      "vicinity": "98 Moo 4 Kata New Road, Kata Beach, Karon, Muang"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8826033,
+          "lng": 98.3008308
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.883992379892723,
+            "lng": 98.30214942989272
+          },
+          "southwest": {
+            "lat": 7.881292720107279,
+            "lng": 98.29944977010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Dar's Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101311991968788843248\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBNPM1jSw98YwqQemBPVbRkW25moULfn3k01ZYLwOE5wPFJgU_JvNx7vOqd-N4rST2fgmwQU_RytFLKcetNPT-jsPU2vTeE4Nzp99JVd2mUQ7GyuxrE81OdFuj9rZTLmcHW7fNS7eDD3qT57SMTNF0gobb7pkJfqcyIk7nGA7ILjN-J",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJp_Cz8a07UDAR68W-92E0qVc",
+      "plus_code": {
+        "compound_code": "V8M2+28 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV8M2+28"
+      },
+      "rating": 4.9,
+      "reference": "ChIJp_Cz8a07UDAR68W-92E0qVc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "201/1 Nanai Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.956095899999998,
+          "lng": 98.3707027
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.957477479892721,
+            "lng": 98.37203037989273
+          },
+          "southwest": {
+            "lat": 7.954777820107277,
+            "lng": 98.36933072010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burgerboyz (BIS)",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1146,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114842316879018608378\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDtR1kuDjNWHLI1uzB55C9eGsnMlJBLQAAF9QSnoc37c44tp-s-6NKUPXzdLmreOANvuUuFAd3vqBr3EEX1-em_y0tdhy87xvy12nU8TTIj9ikeT3sXM8cmz8Xwjqw9xpAO_R9KdBCO8obA-y_uHQLjFMJ4Aqm9V-A0zXROZLb4aTo0",
+          "width": 1433
+        }
+      ],
+      "place_id": "ChIJJTFvjqAxUDARxf-M49EM6n0",
+      "plus_code": {
+        "compound_code": "X94C+C7 Ko Kaeo, Mueang Phuket District, Phuket",
+        "global_code": "6MVWX94C+C7"
+      },
+      "rating": 4.5,
+      "reference": "ChIJJTFvjqAxUDARxf-M49EM6n0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Kohkaew 23, Muang"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.815694100000001,
+          "lng": 98.30094
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.817037429892722,
+            "lng": 98.30221112989271
+          },
+          "southwest": {
+            "lat": 7.814337770107278,
+            "lng": 98.29951147010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger House Halal",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109131110027110330983\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBiHt45I_defdoHg8h9jW_eWoAjmRoiBrLoDRPFNzC-rTmu1jJEORJ5PIG-a23rj9gKSMpVJ9IQ3l7ebFuZmx5lx8ksOS48yjlOhy6hcgmzp4x_0bfM1OvPe_PxMluVdfz02edB4OA9HTDjy5n8OrtDnIIFHt7cGJ7aSC5HSusTwv8K",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJUc_yTYwlUDARso9jr36vwgw",
+      "plus_code": {
+        "compound_code": "R882+79 Karon, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR882+79"
+      },
+      "rating": 4.4,
+      "reference": "ChIJUc_yTYwlUDARso9jr36vwgw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 100,
+      "vicinity": "2, 1 Kata Rd, Karon, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8967135,
+          "lng": 98.2999263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.898085629892724,
+            "lng": 98.30127987989272
+          },
+          "southwest": {
+            "lat": 7.89538597010728,
+            "lng": 98.29858022010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Billy Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113837343144936849810\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEATw1TXWh-d8hvmF3yZJtu2RsB9-pgFNQe5T3I9Z5KBv7KhH7VSQhp7AtYrFmohKiW6zDy7dzJbFKpfR3EuNQKYYQr1IyzBzZYOXsqWNnJpsfHYZ5zBiQsU2HWpneO5O9ZYXnggg_IquiowWZquZnCWDfJ7dKDNh_WvEyiRvRLm6Ldp",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJyfkm7qI6UDAR2hB6KbjglB4",
+      "plus_code": {
+        "compound_code": "V7WX+MX Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7WX+MX"
+      },
+      "rating": 0,
+      "reference": "ChIJyfkm7qI6UDAR2hB6KbjglB4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "Unnamed Road, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.885424599999999,
+          "lng": 98.3874732
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.886769029892721,
+            "lng": 98.38886517989273
+          },
+          "southwest": {
+            "lat": 7.884069370107277,
+            "lng": 98.3861655201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Juicy Lucy Burger and Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2913,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111099590445970374586\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECkLim7OhhgnXajilFc2QqREMeGihwUogf9O1KixZNP-Zf70mEEIK4XtiiS9ZwNwkPopGhwUgm8Z1l6R4AhJt6cCHtYg7mazoQPMMMRAeiempVi9Fk_7Mfjh-r0kbvI0v3dbriE9ZoyXfBWy0j7-XWyh06FQXdHQhrRhuHDjiAWxRi1",
+          "width": 3746
+        }
+      ],
+      "place_id": "ChIJza6RndoxUDARmdu9_C2XPx8",
+      "plus_code": {
+        "compound_code": "V9PP+5X Phuket, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9PP+5X"
+      },
+      "rating": 4.6,
+      "reference": "ChIJza6RndoxUDARmdu9_C2XPx8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 101,
+      "vicinity": "87 Yaowarat Rd, Tambon Talat Nuea, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.905785799999999,
+          "lng": 98.2985539
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.907128729892722,
+            "lng": 98.29993597989274
+          },
+          "southwest": {
+            "lat": 7.904429070107278,
+            "lng": 98.29723632010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Kafae Coffee and Burgers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101992244003908136919\">Jiddo T</a>"
+          ],
+          "photo_reference": "Aap_uEDShHRqMOM27hfUeWPYFI9nuSkEP7XHEGJSX7qshdS2Th5f3ETMrGmdPovYK1VwPTXUWy4UJd7Gb02S89vbTfW4sqRdsmQ510rRwZztLuUHAOvVvvD87kIzTM8Bfj_9BJqK2CjvHJTGHw8YY-fkxQDIJh7x8yxxqva_M23qrDblHp_x",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJt8VbyaA7UDAR8wW9e_Xl40w",
+      "plus_code": {
+        "compound_code": "W74X+8C Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWW74X+8C"
+      },
+      "rating": 5,
+      "reference": "ChIJt8VbyaA7UDAR8wW9e_Xl40w",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "83150 Phuket, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8812073,
+          "lng": 98.36804749999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.882498979892722,
+            "lng": 98.36939172989271
+          },
+          "southwest": {
+            "lat": 7.879799320107278,
+            "lng": 98.36669207010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Wizard Burgers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 659,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107158968794822948154\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBtcaIDHr_qsj8kkcdZTeoR_1-s3lQ1x3nKrIZiFA4M22vWUygvZAyzjdPR1g2IwYlsoiIl-qGefD2MulatRpsG54yVr4W4HCw3ds_poDkzld76FIh-Yh9YHkjCHfzepDhQhA1FGJdzpmCa6JME4efUJsI_yEvUnl9HRPI5TAN91pFp",
+          "width": 445
+        }
+      ],
+      "place_id": "ChIJxVyDbO8xUDAR4-m_oLeS5Z4",
+      "plus_code": {
+        "compound_code": "V9J9+F6 Wichit, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9J9+F6"
+      },
+      "rating": 4,
+      "reference": "ChIJxVyDbO8xUDAR4-m_oLeS5Z4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "65/49 Moo4 Virachhongyok Rd Wichit, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.889025200000001,
+          "lng": 98.3710021
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.890377079892722,
+            "lng": 98.37234452989271
+          },
+          "southwest": {
+            "lat": 7.887677420107278,
+            "lng": 98.36964487010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hasun Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115501836369330649983\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEByXRf6TkIukWHD3ZoHClrY0w966exKtlmD75gbQqer6CTm31D5rVfi1qT6VQONxUcNlAqammwTjf3SSQ1YLhCty1ynt3qV1DSog6rrImXG5iJjaRQbiiFN7V6pt5RoWVFBgs_x5CF0WyQnxV0n6IEan1T1aVQfZuWLyoFbSu21LJ86",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJG_Cjp8MxUDARKL2fbsaah0s",
+      "plus_code": {
+        "compound_code": "V9QC+JC Wichit, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9QC+JC"
+      },
+      "rating": 4.8,
+      "reference": "ChIJG_Cjp8MxUDARKL2fbsaah0s",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 44,
+      "vicinity": "66 Wichit, เมือง"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.9170578,
+          "lng": 98.39241609999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.918402729892721,
+            "lng": 98.39381607989272
+          },
+          "southwest": {
+            "lat": 7.915703070107277,
+            "lng": 98.39111642010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Hello Burgers ,Phuket ツ",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108281577504998575499\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAR7u38llJtJwJgEScLNoTL8tcRQQHFvJJYPTFxfE0VzPkVHuxOnCME3Qe8eccXYjIjVAgXuvpxO3Z_zNUh_JKtMVGsBgxV_J5iws4vIBJOoQPZo82yCQJNCLS8XtcHxUeuNTv3VLqUtKHLGATibT6CIVPNUgKqu_sEE4Nt8aG8E2D0",
+          "width": 1108
+        }
+      ],
+      "place_id": "ChIJzauKOjQxUDARo0vWy2sFFtQ",
+      "plus_code": {
+        "compound_code": "W98R+RX Ratsada, Mueang Phuket District, Phuket",
+        "global_code": "6MVWW98R+RX"
+      },
+      "rating": 5,
+      "reference": "ChIJzauKOjQxUDARo0vWy2sFFtQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "ยูเทิร์น โรงฟ้า หลังวค.ภูเก็ต ถนน รัษฎา Tambon Ratsada, เมือง"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.881622900000001,
+          "lng": 98.29315079999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.882982679892722,
+            "lng": 98.29448972989273
+          },
+          "southwest": {
+            "lat": 7.880283020107278,
+            "lng": 98.29179007010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Le brooklyn restaurant",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104146275474685066838\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECEf6vW7r2WX3ORlKRI3Wyzw-HzHE7hbxwGl1_QQ6KuC7G601pfJTQ6OHWIfxUT-LSa8LMBx0PJjCEjMU8Q8DJKjh66kezMFfCPAYOvTqHg0kbDxzqp7J46Qdpfd1Rk4ozLGjs58H-_1cbqEoc3Dff7UXOP235s1DhaJH85OejCUFoN",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJw_Smp87UDARrIBiyT1-OHE",
+      "plus_code": {
+        "compound_code": "V7JV+J7 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7JV+J7"
+      },
+      "rating": 4.5,
+      "reference": "ChIJJw_Smp87UDARrIBiyT1-OHE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 185,
+      "vicinity": "34 62 Prachanukhro Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.893714999999998,
+          "lng": 98.296644
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.895013029892721,
+            "lng": 98.29798882989273
+          },
+          "southwest": {
+            "lat": 7.892313370107277,
+            "lng": 98.29528917010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burgerboyz Bangla",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110293545967429918713\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDvDfysW68sK352c3uHqUbm7mTFBb9GgHRc-TMOJZVmfpiXzqpft-vPSIsKpx64hjFqOxHyu61PYf1DB2E0ZpIygB5mlqb0Uy7iqv5RhTdh1erWUlJ-_lA4I4a8_GDIrQQMIsdNQkBLpdozSzw25x2FTFL4q3ZyXV6xQ638mTQed-UE",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJR_QbCfQ7UDARqxq5_IleP74",
+      "plus_code": {
+        "compound_code": "V7VW+FM Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7VW+FM"
+      },
+      "rating": 5,
+      "reference": "ChIJR_QbCfQ7UDARqxq5_IleP74",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "31 Thanon Bangla, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8161578,
+          "lng": 98.30077639999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.817507479892721,
+            "lng": 98.30211932989272
+          },
+          "southwest": {
+            "lat": 7.814807820107277,
+            "lng": 98.29941967010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "KIRI burger & grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1348,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105271585491484068764\">Mama Restaurant Kata Beach</a>"
+          ],
+          "photo_reference": "Aap_uED40RySaqfuOtFRDmC_LkA93-XHUq8DnbRteK5nbw5az8LN3aehjTQE_4HJdvG5MabMgRwkV82KMsV46THP5tlW17f5NfSdst8dczjpDYYRnN_g530DR7_cf_1QN3fLXbtRBwsX17p6tHAUsruzw9AHMrLMy0InjCuZU75NHqI0OdRA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJWSkONowlUDAR3c2ctSZCpwU",
+      "plus_code": {
+        "compound_code": "R882+F8 Karon, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR882+F8"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJWSkONowlUDAR3c2ctSZCpwU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 348,
+      "vicinity": "20/10 Kata Road, Karon, Muang"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.890255000000001,
+          "lng": 98.29371479999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.891567229892723,
+            "lng": 98.29505452989271
+          },
+          "southwest": {
+            "lat": 7.888867570107279,
+            "lng": 98.29235487010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger restaurant",
+      "place_id": "ChIJKQ2JZ-Q7UDARsPZOC9fyPX0",
+      "rating": 0,
+      "reference": "ChIJKQ2JZ-Q7UDARsPZOC9fyPX0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "V7RV+4F4, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.8923377,
+          "lng": 98.2999667
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.89372147989272,
+            "lng": 98.30134512989272
+          },
+          "southwest": {
+            "lat": 7.891021820107276,
+            "lng": 98.29864547010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Amena Burger",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105821404079180206666\">solomon soo</a>"
+          ],
+          "photo_reference": "Aap_uED9M9yxtNhjwOInxaSR_FPdiX5koGSWwXBs-bQ8hbBOxUEBSb57_sfuW28TgXlH6eNoUUyrFtSjouP42pC3h1WLdEPaQXSci0Froz-Watw0K4E5pnOCVFj5o9UYzBUSOsGbwukRH-w-oLIH0Pphpn3dTwzlPIugWbosIgVj4iTxL905",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJ4a7Aj6Q6UDARsN_tkjmVRyk",
+      "rating": 4.3,
+      "reference": "ChIJ4a7Aj6Q6UDARsN_tkjmVRyk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 67,
+      "vicinity": "V7RX+WXP, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.885293,
+          "lng": 98.2934542
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.886616129892722,
+            "lng": 98.29482402989272
+          },
+          "southwest": {
+            "lat": 7.883916470107278,
+            "lng": 98.29212437010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "The Twenty One Burgers&Bar",
+      "place_id": "ChIJC5Q037A6UDARNnQWOqZ0Mts",
+      "plus_code": {
+        "compound_code": "V7PV+49 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7PV+49"
+      },
+      "rating": 0,
+      "reference": "ChIJC5Q037A6UDARNnQWOqZ0Mts",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "Thanon Ratuthit Songroipi Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8215514,
+          "lng": 98.3416898
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.822917529892722,
+            "lng": 98.34305102989273
+          },
+          "southwest": {
+            "lat": 7.820217870107277,
+            "lng": 98.34035137010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Smashburger Chalong",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3663,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111657834245687532129\">Jonnie</a>"
+          ],
+          "photo_reference": "Aap_uED4KOi39gLHLNGsN8fMqMbkrAhADB2Kn1ouK-fY6_kvHtph37HfrcmKaEIcd-nt4plcFfmTxkoWSppRmF8Ka_keR1QYUoCVROIXL9eyUu_g_GHv2TEyTyp-fRS43PYiGJA_RN_vMcIJOvkQTBt3ZEGxcFd0YJZaVzcvh_3QLtJGWmHD",
+          "width": 2812
+        }
+      ],
+      "place_id": "ChIJb9FV0lEvUDARhtfoU6RzMgg",
+      "plus_code": {
+        "compound_code": "R8CR+JM Chalong, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR8CR+JM"
+      },
+      "rating": 5,
+      "reference": "ChIJb9FV0lEvUDARhtfoU6RzMgg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1 Sunrise Rd, Chalong, Amphoe Mueang Phuket"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.821689900000001,
+          "lng": 98.34183499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.822980379892723,
+            "lng": 98.34314332989273
+          },
+          "southwest": {
+            "lat": 7.820280720107279,
+            "lng": 98.34044367010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Vegan Junkie",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106229751633978341724\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEB3H-1r6EdGbj5LGfJc39c2S3b5P0EHurArFz1zODCFU0y_yceuQd05sRS2X85bUtl93MvwaK_CNFzwzSR_TmBPDXurfFGqiyEHi4BBgxlO0N11oVcJ1C5cjGRMiD2ipEeRLxXME7Uk-NdvmhHiz-CzGU-43w21LsnDSt22NHlZcDw",
+          "width": 1944
+        }
+      ],
+      "place_id": "ChIJdflGDHs5UDARwqsYyiaANLY",
+      "plus_code": {
+        "compound_code": "R8CR+MP Chalong, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR8CR+MP"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJdflGDHs5UDARwqsYyiaANLY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 89,
+      "vicinity": "หมู่ที่ 9, 1 ิิ 13 Sunrise Rd, Chalong, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.906850400000001,
+          "lng": 98.3828034
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.908160979892723,
+            "lng": 98.38416507989272
+          },
+          "southwest": {
+            "lat": 7.905461320107279,
+            "lng": 98.38146542010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sunny Burger- @Sunny Befull_เบอร์เกอร์ หลังราชภัฏภูเก็ต",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117158374869806711005\">Surin Intanoo</a>"
+          ],
+          "photo_reference": "Aap_uEC_5SU6V9aZtAHYDNqjyPviGglnFp731YugnwTBx6JB1smZPyn7E06i8drfQiISk7rFoiRytRs02w5N1cQumlmSDVUD_yHL2U7zlx4lHFSquOTKgD61nspZY79I05Pyp1bS5sAI6NJ1JbdcpiEBHQ7Zk6kd0lEOAafZ12DCBZadt9_-",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlTW7ETUxUDARyN7VKzQkweY",
+      "plus_code": {
+        "compound_code": "W94M+P4 Ratsada, Mueang Phuket District, Phuket",
+        "global_code": "6MVWW94M+P4"
+      },
+      "rating": 5,
+      "reference": "ChIJlTW7ETUxUDARyN7VKzQkweY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "เลขที่ 52/41-3 หมู่ 6 ซอย Kanjana-uthit Rd, Ratsada, เมือง"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.828437600000001,
+          "lng": 98.34198119999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.829796529892723,
+            "lng": 98.34333252989272
+          },
+          "southwest": {
+            "lat": 7.827096870107279,
+            "lng": 98.34063287010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger​ Cafe​' by​ Chef Tan",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 737,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110001651756544279081\">Нино Лашкарава</a>"
+          ],
+          "photo_reference": "Aap_uEBHjDagNm9GFpFJisYe9zigriQ4Ya4Nt06oRv4gEVFXN_ndS2Ags-REbRIwYcmm2XkNIUtKc8CfGCj7rmu3QXpPafJhS-NudtqS0DT8Is--B9avGyKhDZLNDb2q_E-M2N7PynXQ3P0ja_yRFIVjO6sXYtcaiV84d8mNQvbBdPssx1Hb",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJFVilB5UvUDAR97_Cil-bf2Y",
+      "plus_code": {
+        "compound_code": "R8HR+9Q Chalong, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR8HR+9Q"
+      },
+      "rating": 4.7,
+      "reference": "ChIJFVilB5UvUDAR97_Cil-bf2Y",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 43,
+      "vicinity": "58 Soi Chalong, Chalong, Mueang Phuket District"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.8221737,
+          "lng": 98.34022019999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.823558679892721,
+            "lng": 98.34157912989271
+          },
+          "southwest": {
+            "lat": 7.820859020107277,
+            "lng": 98.33887947010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "ชญาเบอร์เกอร์",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112036234970958856969\">KwangBum Lee</a>"
+          ],
+          "photo_reference": "Aap_uEB28-fKceSCSiaGKqu0UfBX2PjqEqQtW1bi5UN5ldiEwItoukKLsOb2iGl9_ekEzOMnpffgxMud5K6axWeZ3-L-n3wPCHR6CkRzWyxSQKbUujNi1YxbiljBRY6OdR1D_wXZZlNSAwWA77EBXSWkkRG_QPR2wliEzWy2wR95upBL7rdL",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJd-SvIRAvUDARl6t4WrOQFXo",
+      "rating": 4.6,
+      "reference": "ChIJd-SvIRAvUDARl6t4WrOQFXo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "R8CR+V39, Rawai, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.882598000000001,
+          "lng": 98.3006748
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.883948629892721,
+            "lng": 98.30202447989274
+          },
+          "southwest": {
+            "lat": 7.881248970107277,
+            "lng": 98.29932482010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Fatboys Cafe & Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1418,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105082959105363478947\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDUEDUcXO_rXRLYR_ekZeaq6YS1G4rWuWqI2Txz9JK2DZF3OsAQWa5bXZX6vBd7eqkdY7QvLDGSmvQoX0YqVBbhpy-r07OHaLAqkOzvtlvlUwBKhr7N7c0ajttGS0NLEWQ7Ofq-5gUQ0psU29ZulEazKpisBMyL1FYO0BGf72LgXnBk",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJfadUpZ47UDARkIDgwwM8J4Y",
+      "plus_code": {
+        "compound_code": "V8M2+27 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV8M2+27"
+      },
+      "rating": 4.7,
+      "reference": "ChIJfadUpZ47UDARkIDgwwM8J4Y",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 40,
+      "vicinity": "205, 23 Nanai Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.9127296,
+          "lng": 98.3326866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.914022229892722,
+            "lng": 98.33403877989272
+          },
+          "southwest": {
+            "lat": 7.911322570107278,
+            "lng": 98.33133912010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Quick Burger",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117431910820804833393\">Javk Thong</a>"
+          ],
+          "photo_reference": "Aap_uEBMTgMuwzzD8mWl37NWv7-TGAIXtFF28z7UfCTD3XkIYssWVRyD5ZMYVKceI85JomVRYg9a8zwK8kxDSBTi-z22zDy6mIDrYNlBzpkq91E4Q9RUHokhfkgCt955QA5294WyBU_3YSz7BVL-PuTqS89arZcGuF9fFYS6_gu79nrZddy3",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJSZJvyF0wUDARF5K0sr_FIBY",
+      "plus_code": {
+        "compound_code": "W87M+33 Kathu, Kathu District, Phuket",
+        "global_code": "6MVWW87M+33"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJSZJvyF0wUDARF5K0sr_FIBY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 74,
+      "vicinity": "32/1 Vichitsongkram Rd, Kathu, Kathu District"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.892172599999999,
+          "lng": 98.298591
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.893672429892721,
+            "lng": 98.29975937989273
+          },
+          "southwest": {
+            "lat": 7.890972770107277,
+            "lng": 98.29705972010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger King - Bangla",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105523985775447005528\">phitakphong benjapuk</a>"
+          ],
+          "photo_reference": "Aap_uEBDzoKuMyezTGg8E8H6OIz1elHzvzGntuy4W9DdTE6Nt3jXAlrDONUcCdUYkzGY7GS_xW3LF28A8EDjvaasfiGG-0RqHkvGga0QuttiwkIBqkJAz0Qh_wceNO8xYIlpgqypkUozasAPEsPyLFhlz64WygIqHGzgqQqOg1LQowuYO0LO",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJESLvqLw6UDARC0FJznWvh7w",
+      "plus_code": {
+        "compound_code": "V7RX+VC Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7RX+VC"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJESLvqLw6UDARC0FJznWvh7w",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 105,
+      "vicinity": "181 Thanon Ratuthit Songroipi Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.979458699999999,
+          "lng": 98.3387632
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.980879629892722,
+            "lng": 98.34011257989273
+          },
+          "southwest": {
+            "lat": 7.978179970107278,
+            "lng": 98.3374129201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "OOO Burger Phuket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108486002752900614667\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECXtpppMQ9gaWbzTU_Zb8a56m5yQfT_VWTeOvd9LN1PMHRml17Rdlln2ov8rO_1AW_hNL2pemfKbil4fRkiNeqZQsn_pCT95F2VWMxLpK_1na7JAl0AEkrjcXGtKUMctqZCAjVV6po_kjfdD4Gk_n9xAyv4VJQM0YDecB5KP8D1414c",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJLb2KYc43UDARmnPolRvAEYw",
+      "plus_code": {
+        "compound_code": "X8HQ+QG Si Sunthon, Thalang District, Phuket",
+        "global_code": "6MVWX8HQ+QG"
+      },
+      "rating": 4.9,
+      "reference": "ChIJLb2KYc43UDARmnPolRvAEYw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 38,
+      "vicinity": "หนิก หน้า 7-11 ซอยวัดม่า Srisoonthorn Rd, Si Sunthon, Thalang District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.9930705,
+          "lng": 98.3061128
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.994424729892721,
+            "lng": 98.30752392989271
+          },
+          "southwest": {
+            "lat": 7.991725070107277,
+            "lng": 98.30482427010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger King - Boat Avenue",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109281506240528884004\">ruhi naik</a>"
+          ],
+          "photo_reference": "Aap_uECUET21PWpC0_zUAWAB3sM6LLYS1rx1nhu2_qavv9vadly0k9MNGUB9EYGyuf2F-gh3KlCYs0Y6BhhCXgHXDlhqkj87qkkHCYXbBYULYk_oHtPC_BvqTF1y0IXi-PqTXr4rG_blVi8tDqvjgcfVD9VQFST4c-EtFZ4Lvk8HSyOIAuHs",
+          "width": 3480
+        }
+      ],
+      "place_id": "ChIJdQfJq9k5UDARyXEzdl10WHA",
+      "plus_code": {
+        "compound_code": "X8V4+6C Choeng Thale, Thalang District, Phuket",
+        "global_code": "6MVWX8V4+6C"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJdQfJq9k5UDARyXEzdl10WHA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 761,
+      "vicinity": "49 14 Bandon-Cherngtalay Rd, Tambon Choeng Thale, Thalang District"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.8921722,
+          "lng": 98.29859110000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.893672229892722,
+            "lng": 98.29975937989273
+          },
+          "southwest": {
+            "lat": 7.890972570107278,
+            "lng": 98.29705972010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger King - Phuket, Jungceylon, 1st floor",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 766,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106630273026135715244\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAgTSlBW5_Fk7Gb28j6Opx5RW_jMuO93tpIEGtQbI68oYS4U8AQgKUH6m8UTfb3K4SWEXHBtHG4z1Z-LAsi0Zjn7Mwk1cVgAe7XzBSiYHK6ewvORr5ehlacXczPBbUt4YooC3mmWuH0kryMRlyn7kIazZFloLOexW5JvjDeL0UdcgnO",
+          "width": 946
+        }
+      ],
+      "place_id": "ChIJW9Hd76Q6UDARyrbvmTWFViM",
+      "plus_code": {
+        "compound_code": "V7RX+VC Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7RX+VC"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJW9Hd76Q6UDARyrbvmTWFViM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 428,
+      "vicinity": "Jungceylon 181, Floor 1, Suite 1108, Kathu, Kathi District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.9011507,
+          "lng": 98.30767879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.902495379892721,
+            "lng": 98.30907122989271
+          },
+          "southwest": {
+            "lat": 7.899795720107277,
+            "lng": 98.30637157010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Warm burger & drinks",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116415713368428621761\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECRLQ7BtaT_QlMOcmBuAQbUx-nKdcsS7FH5AsYj3ygnnpBNYIiNctBYttTxVavyi1hSrZgU6D9pFOiCqnXnN9XY0QwIdaWL849-k-fFWgMuriyYTgJDLNsmFbXUMu4fVF71xlIReCBvBwBbe5GteHUlCD8GiU48i4jWXkCmJ38GsROE",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJObXKLkU7UDARE-Paa_Ox9jc",
+      "plus_code": {
+        "compound_code": "W825+F3 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWW825+F3"
+      },
+      "rating": 4.9,
+      "reference": "ChIJObXKLkU7UDARE-Paa_Ox9jc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "67 15 Soi Khlong Bang Wat, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8963991,
+          "lng": 98.3845906
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.897730379892722,
+            "lng": 98.38590187989271
+          },
+          "southwest": {
+            "lat": 7.895030720107278,
+            "lng": 98.38320222010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger In Town",
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115597400189032495504\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECDEHgcKSw-ToUSZpmLje-Xsf24Edvzgnf8YZZICyD1tfybpjRa3vL1fzTB5hI4qdLYIbBZLglXljNkoBDtAoTmHr_ws5VfTnSg54__1k6cgEYcP0vwmGFf-vRszOAd_dwdUMTQWhkfqyGYoDs4_aG_a6XtHal5ktzcfJHbHHP4XJo2",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJRXAZFXoxUDAR-zTuPYgNlBo",
+      "plus_code": {
+        "compound_code": "V9WM+HR Phuket, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9WM+HR"
+      },
+      "rating": 4.5,
+      "reference": "ChIJRXAZFXoxUDAR-zTuPYgNlBo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "180/1 Yaowarat Rd, Talat Yai, เมือง"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8682599,
+          "lng": 98.3558899
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.869526079892723,
+            "lng": 98.35725492989272
+          },
+          "southwest": {
+            "lat": 7.866826420107279,
+            "lng": 98.35455527010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger King - Shell Chao Fah West Phuket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115475094307049020029\">google gmai</a>"
+          ],
+          "photo_reference": "Aap_uEA0uQrTsAWFtjIurEGBCT7j-QwCIYIOYcbR0-IpJUnqTgLgCfqE6BWjP0xW40WQ9Lzgq5oQJcMGdI9WQjakSq_AzX8RGF2fLHmamAlpZ6lBshfa-zOZiuWE1ju0yTC2RrEp82B6M3FhU0--JqIQRmKfQkmv-AWuTwRiCgroKtG_cKy6",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJE4-qvREvUDAR4f76Cgr14q8",
+      "plus_code": {
+        "compound_code": "V994+89 Wichit, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV994+89"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJE4-qvREvUDAR4f76Cgr14q8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 270,
+      "vicinity": "90, 12 Chao Fah Tawan Tok Rd, Wichit, Mueang Phuket District"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.891780399999999,
+          "lng": 98.3015161
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.893133979892722,
+            "lng": 98.30282727989272
+          },
+          "southwest": {
+            "lat": 7.890434320107278,
+            "lng": 98.30012762010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Lucky 13 Sandwich Patong",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1897,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111398688112360597128\">Lucky 13 Sandwich</a>"
+          ],
+          "photo_reference": "Aap_uECNgndLhU2S7WouTDoOzqJkh5hBk5TpT7BqplQq6JWayc1eOUdneSgs4fos5KOz-IubFZL_e5-8QsNXuw_8NLMBb7mgy1MAp4DcFuXNaEqrGgYCU4wiTBqG6iCMd7y6Aoj0a-NYrVMU8OGeqAHnxrXcysn5JSI-ywPAxHHYlMRg076s",
+          "width": 2202
+        }
+      ],
+      "place_id": "ChIJr9r6aKQ6UDARewusNp7HubQ",
+      "plus_code": {
+        "compound_code": "V8R2+PJ Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV8R2+PJ"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJr9r6aKQ6UDARewusNp7HubQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 178,
+      "vicinity": "184, 16 Phang Muang Sai Kor Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.892961299999999,
+          "lng": 98.29777969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.894462629892721,
+            "lng": 98.29916897989273
+          },
+          "southwest": {
+            "lat": 7.891762970107277,
+            "lng": 98.29646932010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Backside Bar & Bistro Central Bangla Rd.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116372565318311773331\">Simon</a>"
+          ],
+          "photo_reference": "Aap_uEADSpku9DrsEUSe0GxX5ZSIRrm2-dAlcQ7cE9O5TXJI3pK1db7jAmssYOYqYcAlo7m59t8aPArerUbDwH32yDz_0N8bF7Up1iz0AbvG1LnBUfyT2ZanOh9iopKTcoChk93dTOTAorihLgxYs2ShJ8Az9JpDnuj8cTzdcI0LWSKwvlJF",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJeTvgaS07UDAR7qU7UmDuUqQ",
+      "plus_code": {
+        "compound_code": "V7VX+54 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7VX+54"
+      },
+      "rating": 4.3,
+      "reference": "ChIJeTvgaS07UDAR7qU7UmDuUqQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "198/4 Central Patong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.893870899999999,
+          "lng": 98.2952433
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.895260029892721,
+            "lng": 98.29654977989271
+          },
+          "southwest": {
+            "lat": 7.892560370107277,
+            "lng": 98.29385012010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Five Loaves To go Patong",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1546,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106655934466460447290\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBvhukAd61oXXsZECoz5K-blS9cZAmoosFviu-AXTdpeRvv_2cb-nNgmQF3SDzK7Z59Igk771csZXwN7eNBjSMTOFvtbY9r3EfntcP1KANoQi6_9M43VhyMSyBtID78jzq-oxqfAYK7dPyIQyvHSw79Mi5cyGz7E3Oedr8poA0F5EGQ",
+          "width": 2317
+        }
+      ],
+      "place_id": "ChIJQYhUHjg7UDAR71mwbiSo--c",
+      "plus_code": {
+        "compound_code": "V7VW+G3 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7VW+G3"
+      },
+      "rating": 4.8,
+      "reference": "ChIJQYhUHjg7UDAR71mwbiSo--c",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "100b Thawewong Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.881978399999999,
+          "lng": 98.3911466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.883345479892722,
+            "lng": 98.39253082989273
+          },
+          "southwest": {
+            "lat": 7.880645820107278,
+            "lng": 98.38983117010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger Com and the Gang เบอร์เกอร์คอม ภูเก็ต",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2478,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117658303333566694514\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAq5d7-0dM2Xd-rDxSUuXUDQ00EBicb5Ipcje8YiJ-b0R6lEFz4VEQlxOVzqGEdvCkqdJAANCinzG_LPn5DzItvsJRnDRETCMC0tgvmR1J9N5VwvvHAF1mWiSNtJ6kAYtCqAo_kG3zG9oCuiCbLuTvUZ0HckglsCqqHfDHBqfDaQWkK",
+          "width": 2478
+        }
+      ],
+      "place_id": "ChIJexUIZp4xUDARyJxihZmy2kk",
+      "plus_code": {
+        "compound_code": "V9JR+QF Phuket, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9JR+QF"
+      },
+      "rating": 4.8,
+      "reference": "ChIJexUIZp4xUDARyJxihZmy2kk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "184 Phuket Rd, Tambon Talat Yai, เมือง"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.8830334,
+          "lng": 98.3884257
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.884430979892721,
+            "lng": 98.38977827989272
+          },
+          "southwest": {
+            "lat": 7.881731320107277,
+            "lng": 98.38707862010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger in-arm",
+      "permanently_closed": true,
+      "place_id": "ChIJlecBUrcxUDAR9dMTGkgcw1A",
+      "plus_code": {
+        "compound_code": "V9MQ+69 Phuket, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9MQ+69"
+      },
+      "rating": 0,
+      "reference": "ChIJlecBUrcxUDAR9dMTGkgcw1A",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "เลขที่ 46/482-483 Ratsada Rd, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.888818299999999,
+          "lng": 98.3036002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.890169679892723,
+            "lng": 98.30495347989273
+          },
+          "southwest": {
+            "lat": 7.887470020107279,
+            "lng": 98.3022538201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Baloo's Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105916479196607237904\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECiRsbSJOXQ-y_kV-6APFt9LRkAyHpbr0c5JAaIgbYGT2k2sE2ZQdE1c5mIvfT4WGU-Vxdv8adLgD38ciUaF_mt1DbraPv1XyHBrBKxzqlwzQ9aay4VVU13JqTZ4t9HXE1OANsOY8t5Eh5aR4Gns-yFG8i8pvtNnIKskPGYLsUT6LKj",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJ82-Uc-k7UDARuffW2vgJ0Bg",
+      "plus_code": {
+        "compound_code": "V8Q3+GC Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV8Q3+GC"
+      },
+      "rating": 4.9,
+      "reference": "ChIJ82-Uc-k7UDARuffW2vgJ0Bg",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "90 Nanai Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.9513701,
+          "lng": 98.3600744
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.952919729892724,
+            "lng": 98.36146392989272
+          },
+          "southwest": {
+            "lat": 7.95022007010728,
+            "lng": 98.35876427010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Dark Horse Pub & Kitchen",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110826493043455073289\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECXzg5JTn7IDuOBvH7prox-SgPrdOiSwQ6Th9owzOs_RHehR0AoFyPZkK6fh8i_jyX_ru3P3NZZttGSj32J2t0fjImPjABjukKMpftdZONSyDTbzXwqSvFxnw2ar1OyXIKABSdloUZOaJ7hGduZYT2qBFKM0bjG-Q2RLJkFj0VbRTbo",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJcaiwFOkvUDARptAirlwrai8",
+      "plus_code": {
+        "compound_code": "X926+G2 Ko Kaeo, Mueang Phuket District, Phuket",
+        "global_code": "6MVWX926+G2"
+      },
+      "rating": 4.9,
+      "reference": "ChIJcaiwFOkvUDARptAirlwrai8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "91/2 moo 2, tambon Kohkeaw, Tambon Kohkeaw, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8885299,
+          "lng": 98.3665432
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.889722179892722,
+            "lng": 98.36781812989273
+          },
+          "southwest": {
+            "lat": 7.887022520107278,
+            "lng": 98.36511847010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Lucky 13 Sandwich Central Phuket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112723188195325997211\">Natalie Rangkla</a>"
+          ],
+          "photo_reference": "Aap_uEDFRR-JU3xyxQP_wnuipe7YSfv4quMfX8xzqFXak59_asFRJfxcVXgsC6_y4m37vE8YoK1yPa65kovD-Pzv-q9tNxzKIMSjTWv66p9563MYwkdEbK7Y6q9-La5u38HAB2ILScPEKdbNfG0h3ftIUjlwyXGMtxN-N2SPSGPzii8T-_ur",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-9wvzEIxUDARoSgxISrtLCw",
+      "plus_code": {
+        "compound_code": "V9Q8+CJ Wichit, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9Q8+CJ"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJ-9wvzEIxUDARoSgxISrtLCw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "199 Moo 4, Wichit, Muang"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 7.884637099999999,
+          "lng": 98.3904171
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.886003079892721,
+            "lng": 98.39176772989272
+          },
+          "southwest": {
+            "lat": 7.883303420107278,
+            "lng": 98.38906807010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "The Little Pig",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110514348722052893180\">Johan Nagmer</a>"
+          ],
+          "photo_reference": "Aap_uEDUDD0KD4Epmyck_cOhc2Ld7UV5JmIQgE2WlqYdV8hMz97l705ChoMV9MDreQMreM_LjuKTSGd_TYj7BrIfhIQ5LQ8wLpIE6r8adWrs_UaTM6GqKOrQXqJqZp3Pe5x27Me1fHBm-voQ0TrQ1ETQHgDRBJv8Bu1kyzwvLq_DFmfkA4Y2",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJQ55sGPoxUDAR8KoTCZysEGo",
+      "plus_code": {
+        "compound_code": "V9MR+V5 Phuket, Mueang Phuket District, Phuket",
+        "global_code": "6MVWV9MR+V5"
+      },
+      "rating": 3.3,
+      "reference": "ChIJQ55sGPoxUDAR8KoTCZysEGo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Thalang Rd, Talat Yai, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.9046243,
+          "lng": 98.2973224
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.905976729892721,
+            "lng": 98.29862132989273
+          },
+          "southwest": {
+            "lat": 7.903277070107277,
+            "lng": 98.29592167010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Sears & Co., Bar and Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110915578393395445068\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uED3aaGAN4i2S6kxIB1xEGAaCKkiR5Hzrr1I9fU3KInn81VdYxosr6mVVoOG1eXCdu4SOXZ2U_SI85L3-PHJfw-Ll_na-zub1d99-ueKkKXQa3zpXVFzNctei_TR8zLT4f0LHY94nrdayyIFrPcmJJTM9jW3QxMR-Tay-hs9cQKwPmsg",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJpW8FD0s7UDARvzR1W8sTBXY",
+      "plus_code": {
+        "compound_code": "W73W+RW Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWW73W+RW"
+      },
+      "rating": 4.1,
+      "reference": "ChIJpW8FD0s7UDARvzR1W8sTBXY",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "located in front of Four Points by Sheraton, 198/8-9 Thawewong Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.964982599999999,
+          "lng": 98.3806006
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.966290479892725,
+            "lng": 98.38196332989271
+          },
+          "southwest": {
+            "lat": 7.963590820107281,
+            "lng": 98.37926367010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "VAVA BURGER​ HALAL FOOD",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100445015047736628341\">sirunya kahapana</a>"
+          ],
+          "photo_reference": "Aap_uEBm8YFCuAuKqXuothPCb7omgSegB5eCklw-_fR5SweAroALNefbP_gd7Hi2KZBDdTaPZXs-7D4OZP-LGzolw_20mBQUPQKHnf88yu1Bc3oCu8LWJoEuv2jzyFZzBpdIwWUkjph7ylt1WUbfVecCOqkeL-dfJDxSV0jfxw2KAINoVsmw",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJCZMfh843UDARmgAQbaFgn1o",
+      "plus_code": {
+        "compound_code": "X97J+X6 Ko Kaeo, Mueang Phuket District, Phuket",
+        "global_code": "6MVWX97J+X6"
+      },
+      "rating": 5,
+      "reference": "ChIJCZMfh843UDARmgAQbaFgn1o",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "37/6 Soi Kohkeaw 22 Ko Kaeo, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8282186,
+          "lng": 98.34353139999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.829554479892723,
+            "lng": 98.34492882989271
+          },
+          "southwest": {
+            "lat": 7.826854820107279,
+            "lng": 98.34222917010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "น้ำเต้าหู้เที่ยงคืน",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108259485093561124184\">nutyamee thamyang</a>"
+          ],
+          "photo_reference": "Aap_uEDhkcfGw88-jxG1dMUHXXaA-YxyqJ49zaM0PyFT30K-aR21g_Zy8pNK_1KK9jsTATRkoppEGeCjcAzAfx13Nwc8It0H2fHHVkw-U6H0fWS9840SVJQtsyyQ_gjXEDefGGlG6UTZ-7yP-nFD7MJXJH43Yy0YPLBcNupywONpibzB23ie",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJwas6_74vUDARN-zY_z3EMjc",
+      "plus_code": {
+        "compound_code": "R8HV+7C Chalong, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR8HV+7C"
+      },
+      "rating": 4.8,
+      "reference": "ChIJwas6_74vUDARN-zY_z3EMjc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "Thanon Chao Fah Tawan Ok, Chalong, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8328739,
+          "lng": 98.2952864
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.83422807989272,
+            "lng": 98.29655572989273
+          },
+          "southwest": {
+            "lat": 7.831528420107277,
+            "lng": 98.29385607010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Window on Karon Cafe Restaurant & Bakery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1236,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111552008565815592877\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBfvxZksbcnQ7WtamqRXPoKAZPTIL2CzFwPi_m-ibk0teUZ2_Rsk4C_U3syml1NhZesgNUNOEpIpuHL8Mm29OgVRQReAD9EgOoEzfr_Vja-jzmiRfGyK0KyzK6zabo375M3Vb61eg6akZrbHgV0Q2ma7ZdLOr2QxkDIdSm_8948189A",
+          "width": 2544
+        }
+      ],
+      "place_id": "ChIJQVL782AlUDARE_ZMrwrOMfI",
+      "plus_code": {
+        "compound_code": "R7MW+44 Karon, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR7MW+44"
+      },
+      "rating": 4.6,
+      "reference": "ChIJQVL782AlUDARE_ZMrwrOMfI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bakery",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 36,
+      "vicinity": "144 Karon Rd, Karon, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.9223822,
+          "lng": 98.3963629
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.923737579892722,
+            "lng": 98.39766982989272
+          },
+          "southwest": {
+            "lat": 7.921037920107278,
+            "lng": 98.39497017010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger Sun",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117488406676951538510\">SUN Rider</a>"
+          ],
+          "photo_reference": "Aap_uEBeuqKSYzXHDMh7gadh5X7arY0p3azqwjnjrTnDO3vkchxw8aAn4sVMj8zRS3_XtbBxW-x3VHgEbSaMDsUBMc-yrR_zS41UeXlfWNUdfpaRVXskO0hIVMTuoxoYsS8iWaaguh72MuZgKqJFr4jaJSPEuvcsVZpOuVO0xN0VCVv53I4C",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ39yZAPcxUDARIhj15Yh80jk",
+      "plus_code": {
+        "compound_code": "W9CW+XG Ratsada, Mueang Phuket District, Phuket",
+        "global_code": "6MVWW9CW+XG"
+      },
+      "rating": 5,
+      "reference": "ChIJ39yZAPcxUDARIhj15Yh80jk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "66, 59 Thepkrasatree Rd, Ratsada, Mueang Phuket District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.904317,
+          "lng": 98.3032119
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.905657479892723,
+            "lng": 98.30455152989272
+          },
+          "southwest": {
+            "lat": 7.90295782010728,
+            "lng": 98.30185187010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Marush مروش",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114643800215976093298\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBuPX1aOuAwBWdcKyK-88NSxEfdDsykieh35HyqWjdtHCUnWPLe71YPKh5-MdCOPIBjIJ7KSvZdcCFEYhZIIBqFyebDkkJqORTqiq-q677u2e28yVX1ytC1GuqU7pqrwfWxhlYnnXjMyJT1no7SLveIA3Fc6rYmDwE3fg-49NKXX_rn",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ5fgAxFM7UDARoTLagu8qSKQ",
+      "plus_code": {
+        "compound_code": "W833+P7 Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWW833+P7"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ5fgAxFM7UDARoTLagu8qSKQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 443,
+      "vicinity": "186 Phrabarami Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.9951979,
+          "lng": 98.3052673
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.996557479892722,
+            "lng": 98.30663892989273
+          },
+          "southwest": {
+            "lat": 7.993857820107278,
+            "lng": 98.30393927010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Lucky 13 Sandwich Laguna",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 805,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110988360966235794775\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEAL1NoIfkUtQyNXHCGO5_rdtTqSt3Hg4Xs6nKlvxmug3txpMGNTcbwDG7ib1HpUh6P7I25HaIhPgfJOP04I0tdlMw8lqcNI86ddRdx-8-m5xeGcvjoCMJcC90ZnUKCfkf6OCORUUKyJPho_bowIUgg_sWj4UJLbBWuGwWMrv-U4TVko",
+          "width": 1207
+        }
+      ],
+      "place_id": "ChIJc3Et0v05UDARlOSLfCOZXUM",
+      "plus_code": {
+        "compound_code": "X8W4+34 Choeng Thale, Thalang District, Phuket",
+        "global_code": "6MVWX8W4+34"
+      },
+      "rating": 3.7,
+      "reference": "ChIJc3Et0v05UDARlOSLfCOZXUM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "19/2 Lagoon Rd, Choeng Thale, Thalang District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.979843199999999,
+          "lng": 98.293592
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.981224579892722,
+            "lng": 98.29494552989273
+          },
+          "southwest": {
+            "lat": 7.978524920107279,
+            "lng": 98.29224587010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tj burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111799912192398730078\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uECUQ2nZApgKOjMBtuXqECk5GnwEthLCEaa2kieyy3t60seqmyGQQbYtpoXib7wBPN3XV-77kec-DEFFvGsUfHrpnNCx8eSClqdz6mukxxZ8feWnrI4wXyo_kiikSoKZ_V61CzZuv77EtLb45vgbPL9AE33QRF_cBvrbo-Qs-9ao4u6C",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJxdb-ub45UDAROFQvrJ3mi9Q",
+      "rating": 4.6,
+      "reference": "ChIJxdb-ub45UDAROFQvrJ3mi9Q",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "X7HV+WCP, Choeng Thale, Thalang District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.897623899999999,
+          "lng": 98.2998648
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.898983279892722,
+            "lng": 98.30117432989272
+          },
+          "southwest": {
+            "lat": 7.896283620107278,
+            "lng": 98.29847467010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Rosco's Restaurant & Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115652101268928108138\">Timothy White</a>"
+          ],
+          "photo_reference": "Aap_uEB4I3HZKNYMS-0yK1MPZXccv8v8arVnt9OT0orCUxioMeJOasFdM0-GouI5SJ2D3_WHpntME67xLFYWYnYtEiVGsTpCebd74KNamYUNPV7b53Eviv3UIip3D7ARNam6nJbY3bnsYTvz4ZoPoOxZgzOo2s1cGKEi0AfFp5Mb5vi0nwKB",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ4cNFkqI6UDARs5nh-Ed-3kk",
+      "plus_code": {
+        "compound_code": "V7XX+2W Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7XX+2W"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJ4cNFkqI6UDARs5nh-Ed-3kk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 238,
+      "vicinity": "95 Rat-U-Thit 200 Pee Rd, Pa Tong"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8873555,
+          "lng": 98.2942899
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.888821079892724,
+            "lng": 98.29567917989273
+          },
+          "southwest": {
+            "lat": 7.88612142010728,
+            "lng": 98.29297952010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Hooters Phuket | American Restaurant & Sports Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100130446939841022535\">James oahuhawaii</a>"
+          ],
+          "photo_reference": "Aap_uECFdeZu45NaOjL8kpD1k8BXw65ZMiCuDGG7qTkMKRTATHScYeYDNxCa1SWun-Xochr8NfUS3-mBiKnGfzyeUPkvhwPdcv97_Zlqsqj7qg4KMOUuRZY6aYuh0yI_1-QmLzL6plUeRuPj8vfnbz2ZTRLW3n-FoFfhqLbY1xKL3Te0KCCK",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJC_lyhLA6UDARfM9nDM8DeN4",
+      "plus_code": {
+        "compound_code": "V7PV+WP Pa Tong, Kathu District, Phuket",
+        "global_code": "6MVWV7PV+WP"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJC_lyhLA6UDARfM9nDM8DeN4",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1607,
+      "vicinity": "48 2 Ruamchai Rd, Pa Tong, Kathu District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 7.8341128,
+          "lng": 98.29870509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 7.835474179892722,
+            "lng": 98.29998852989272
+          },
+          "southwest": {
+            "lat": 7.832774520107278,
+            "lng": 98.29728887010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "EAT Bar & Grill Restaurant Karon",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1001,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103347605333716491566\">Chloe Wang</a>"
+          ],
+          "photo_reference": "Aap_uED9gG8AM5t7pVt7LZIX9uFdaRu9PdrLCVG1yuvte_-mKM8n1VjPDH-bPrkQN8_rN202vjQvTl2dyx7YGuvnfDpDbXisoaLW-6PMCbmFycpzyZVneyxnvGMpv0-nqDzgbmIV5kk2p5UIGcORtJTh9bnZe4XFcu2KlUgguoSonfaPofda",
+          "width": 1334
+        }
+      ],
+      "place_id": "ChIJ0w_o43YlUDARPjur3OPhTRg",
+      "plus_code": {
+        "compound_code": "R7MX+JF Karon, Mueang Phuket District, Phuket",
+        "global_code": "6MVWR7MX+JF"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ0w_o43YlUDARPjur3OPhTRg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 576,
+      "vicinity": "250 1 Patak Rd, Karon, Mueang Phuket District"
+    }
+  ]
+]

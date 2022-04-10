@@ -3,10 +3,10 @@ import App from './App.vue';
 import { router } from './router';
 import Axios from 'axios'
 import axios from 'axios';
-// import store from './store';
+import store from './store';
 import VeeValidate from 'vee-validate';
 import vuetify from './plugins/vuetify';
-// import createAuthRefreshInterceptor from 'axios-auth-refresh';
+import createAuthRefreshInterceptor from 'axios-auth-refresh';
 import VueAxios from 'vue-axios'
 import * as VueGoogleMaps from 'vue2-google-maps'
 import ApiService from "./services/api.service";
@@ -15,17 +15,17 @@ Vue.config.productionTip = false;
 
 Vue.prototype.$http = Axios;
 
-// let user = JSON.parse(localStorage.getItem('user'));
+let user = JSON.parse(localStorage.getItem('user'));
 
-// const refreshAuthLogic = failedRequest => axios.post(API_URL + 'auth/refresh', {'refresh_token': user.refresh_token}).then(tokenRefreshResponse => {
-//     localStorage.setItem('user', JSON.stringify(tokenRefreshResponse.data));
-//     console.log('REFRESH RESPONSE: ' ,tokenRefreshResponse)
-//     failedRequest.response.config.headers['Authorization'] = 'Bearer ' + tokenRefreshResponse.data.access_token;
-//     console.log('RETRYING REQUEST')
-//     return Promise.resolve();
-// });
+const refreshAuthLogic = failedRequest => axios.post(API_URL + 'auth/refresh', {'refresh_token': user.refresh_token}).then(tokenRefreshResponse => {
+    localStorage.setItem('user', JSON.stringify(tokenRefreshResponse.data));
+    console.log('REFRESH RESPONSE: ' ,tokenRefreshResponse)
+    failedRequest.response.config.headers['Authorization'] = 'Bearer ' + tokenRefreshResponse.data.access_token;
+    console.log('RETRYING REQUEST')
+    return Promise.resolve();
+});
 
-// createAuthRefreshInterceptor(axios, refreshAuthLogic);
+createAuthRefreshInterceptor(axios, refreshAuthLogic);
 
 
 Vue.use(VueGoogleMaps, {
@@ -65,7 +65,7 @@ ApiService.init();
 
 new Vue({
   router,
-  // store,
+  store,
   vuetify,
   render: h => h(App)
 }).$mount('#app');
