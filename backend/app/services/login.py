@@ -93,6 +93,7 @@ def create_token(user) -> Token:
         "refresh_token": refresh_token,
         "token_type": "bearer",
         "super_admin": user.super_admin,
+        "user_id": user.id
     }
 
 

@@ -39,10 +39,11 @@
       <v-col>
         <v-row class="mx-0 mb-3">
           <v-btn @click="findButtonPressed" :disabled="!queryInfo.lat"
+          color="primary"
           class="mr-4"
             >Find Nearby</v-btn
           >
-          <v-btn>
+          <v-btn color="primary">
             Save Items
           </v-btn>
         </v-row>
@@ -89,6 +90,7 @@
         </v-list>
         <div>debug area: {{ coordinates }}</div>
         <div>{{ selectedPlace }}</div>
+        <div>user_id: {{ user }}</div>
       </v-col>
       <v-divider vertical></v-divider>
       <v-col>
@@ -157,6 +159,9 @@ export default {
       else {
         return undefined
       }
+    },
+    user() {
+      return this.$store.state.auth.user.user_id
     }
   },
   methods: {
